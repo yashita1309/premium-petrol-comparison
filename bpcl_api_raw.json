@@ -1,0 +1,5921 @@
+{
+  "pointOfServices": [
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9448050215",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "ratnaveer143084@bpclretail.in",
+        "formattedAddress": "SITE NO. 120, INDUSTRIAL LAYOUT, 7TH BLOCK, KORAMANGALA, BANGALORE, BANGLAORE-URB, 560095, India",
+        "id": "8798802247703",
+        "line1": "SITE NO. 120, INDUSTRIAL LAYOUT",
+        "line2": "7TH BLOCK",
+        "postalCode": "560095",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "KORAMANGALA, BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "RATNAVEER SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "ratnaveer143084@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.935718,
+        "longitude": 77.614515
+      },
+      "name": "RATNAVEER SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000143084",
+      "telephone": "9448050215",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9900492414",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "federation143126@bpclretail.in",
+        "formattedAddress": "D.DEVARAJ URS TRUCK TERMINAL LTD, KANTEERVA STUDIO ROAD, PEENYA, BANGALORE, BANGLAORE-URB, 560022, India",
+        "id": "8798802935831",
+        "line1": "D.DEVARAJ URS TRUCK TERMINAL LTD",
+        "line2": "KANTEERVA STUDIO ROAD",
+        "postalCode": "560022",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "PEENYA, BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "Parking",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "FEDERATION OF LORRY OWNERS ASS BHARAT PETROLEUM DEALERS",
+      "email": "federation143126@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.022321,
+        "longitude": 77.532983
+      },
+      "name": "FEDERATION OF LORRY OWNERS ASS BHARAT PETROLEUM DEALERS",
+      "roId": "0000143126",
+      "telephone": "9900492414",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9900411000",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "tp143753@bpclretail.in",
+        "formattedAddress": "1, WARD 92, MARAPPA BLOCK, NANDIDURGA ROAD, JC NAGAR, J. C. NAGAR, BANAGALORE, BANGLAORE-URB, 560006, India",
+        "id": "8798817517591",
+        "line1": "1, WARD 92, MARAPPA BLOCK",
+        "line2": "NANDIDURGA ROAD, JC NAGAR",
+        "postalCode": "560006",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "J. C. NAGAR, BANAGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "T.P. PETROL BUNK BHARAT PETROLEUM DEALERS",
+      "email": "tp143753@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 13.0053584,
+        "longitude": 77.5938872
+      },
+      "name": "T.P. PETROL BUNK BHARAT PETROLEUM DEALERS",
+      "roId": "0000143753",
+      "telephone": "9900411000",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9481779600",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "ajeya144068@bpclretail.in",
+        "formattedAddress": "NO.15,RAMAMURTHY NAGAR MAIN ROAD, BANASWADI, BANASWADI, BANGALORE, BANGLAORE-URB, 560043, India",
+        "id": "8809466232855",
+        "line1": "NO.15,RAMAMURTHY NAGAR MAIN ROAD",
+        "line2": "BANASWADI",
+        "postalCode": "560043",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANASWADI, BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "AJEYA SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "ajeya144068@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.013234,
+        "longitude": 77.661407
+      },
+      "name": "AJEYA SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000144068",
+      "telephone": "9481779600",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845245186",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "matrushree144074@bpclretail.in",
+        "formattedAddress": "SY. NO. 287/1B, 80 FT ROAD, 7TH MAIN, SUBBINAPALAYA, BANGALORE, BANGLAORE-URB, 560043, India",
+        "id": "8798825316375",
+        "line1": "SY. NO. 287/1B, 80 FT ROAD",
+        "line2": "7TH MAIN, SUBBINAPALAYA",
+        "postalCode": "560043",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "MATRUSHREE FUEL STATION BHARAT PETROLEUM DEALERS",
+      "email": "matrushree144074@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.014318,
+        "longitude": 77.642665
+      },
+      "name": "MATRUSHREE FUEL STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000144074",
+      "telephone": "9845245186",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9886213028",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "samahita144201@bpclretail.in",
+        "formattedAddress": "C.A SITE 29/A (P), 27TH MAIN ROAD (80 FT ROAD), BANGALORE, BANGLAORE-URB, 560072, India",
+        "id": "8798828232727",
+        "line1": "C.A SITE 29/A (P)",
+        "line2": "27TH MAIN ROAD (80 FT ROAD)",
+        "postalCode": "560072",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "In_Out",
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SAMAHITA FUELLING STATION BHARAT PETROLEUM DEALERS",
+      "email": "samahita144201@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.91989,
+        "longitude": 77.651306
+      },
+      "name": "SAMAHITA FUELLING STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000144201",
+      "telephone": "9886213028",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "nikhil136761@bpclretail.in",
+        "formattedAddress": "26/27, WEBBS JUNCTION, M.G. ROAD, , BANGALORE, BANGLAORE-URB, 560001, India",
+        "id": "9813015265303",
+        "line1": "26/27, WEBBS JUNCTION, M.G. ROAD",
+        "line2": "",
+        "postalCode": "560001",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "NIKHIL FILLING STATION BHARAT PETROLEUM CORPN LTD",
+      "email": "nikhil136761@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.973514,
+        "longitude": 77.613876
+      },
+      "name": "NIKHIL FILLING STATION BHARAT PETROLEUM CORPN LTD",
+      "roId": "0000136761",
+      "telephone": "7411416031",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9620099999",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "libra137378@bpclretail.in",
+        "formattedAddress": "PLOT NO. 101, III PHASE, PEENYA INDUSTRIAL ESTATE, BANGALORE, BANGLAORE-URB, 560058, India",
+        "id": "8798762434583",
+        "line1": "PLOT NO. 101, III PHASE",
+        "line2": "PEENYA INDUSTRIAL ESTATE",
+        "postalCode": "560058",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "LIBRA PETRO SERVICES PVT. LTD PEENYA",
+      "email": "libra137378@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.02574,
+        "longitude": 77.52102
+      },
+      "name": "LIBRA PETRO SERVICES PVT. LTD PEENYA",
+      "roId": "0000137378",
+      "telephone": "9620099999",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9448050474",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "saivishnu150739@bpclretail.in",
+        "formattedAddress": "C.A. SITE NO. 8/P/5, 3RD CROSS, 1 MAIN, EAST OF NGEF, BANGALORE, BANGLAORE-URB, 560034, India",
+        "id": "8800876429335",
+        "line1": "C.A. SITE NO. 8/P/5",
+        "line2": "3RD CROSS, 1 MAIN, EAST OF NGEF",
+        "postalCode": "560034",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "In_Out",
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SAI VISHNU PETRO STATION BHARAT PETROLEUM DEALERS",
+      "email": "saivishnu150739@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 13.003904,
+        "longitude": 77.6574
+      },
+      "name": "SAI VISHNU PETRO STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000150739",
+      "telephone": "9448050474",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845087421",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "kalpatharu154584@bpclretail.in",
+        "formattedAddress": "NO.2, KALKERE MAIN ROAD, RAMAMURTHY NAGAR, BANGALORE, BANGLAORE-URB, 560016, India",
+        "id": "8799037784087",
+        "line1": "NO.2, KALKERE MAIN ROAD",
+        "line2": "RAMAMURTHY NAGAR",
+        "postalCode": "560016",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "KALPATHARU ENTERPRISES BHARAT PETROLEUM DEALERS",
+      "email": "kalpatharu154584@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 13.018275,
+        "longitude": 77.678001
+      },
+      "name": "KALPATHARU ENTERPRISES BHARAT PETROLEUM DEALERS",
+      "roId": "0000154584",
+      "telephone": "9845087421",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9986562777",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "shankar154632@bpclretail.in",
+        "formattedAddress": "C.A. SITE NO. P-2,, SY. NO. 62, KODI HALLI, BANGALORE, BANGLAORE-URB, 560075, India",
+        "id": "8799038898199",
+        "line1": "C.A. SITE NO. P-2,",
+        "line2": "SY. NO. 62, KODI HALLI",
+        "postalCode": "560075",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SHANKAR AND SONS BHARAT PETROLEUM DEALERS",
+      "email": "shankar154632@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.967711,
+        "longitude": 77.655978
+      },
+      "name": "SHANKAR AND SONS BHARAT PETROLEUM DEALERS",
+      "roId": "0000154632",
+      "telephone": "9986562777",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845888502",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "arunodaya131209@bpclretail.in",
+        "formattedAddress": "69/4 GANGADHARA NAGAR, J.P.NAGAR POST OFFICE, BANGALORE, BANGLAORE-URB, 560078, India",
+        "id": "8798612422679",
+        "line1": "69/4 GANGADHARA NAGAR",
+        "line2": "J.P.NAGAR POST OFFICE",
+        "postalCode": "560078",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "ARUNODAYA SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "arunodaya131209@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.908007,
+        "longitude": 77.571108
+      },
+      "name": "ARUNODAYA SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000131209",
+      "telephone": "9845888502",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "8095763666",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "advaita131333@bpclretail.in",
+        "formattedAddress": "SITE NO.3(P) B.T.M LAYOUT, 1ST STAGE 1ST PHASE TAVAREKERE, TAVARAKERE, BANGALORE, BANGLAORE-URB, 560076, India",
+        "id": "8798615732247",
+        "line1": "SITE NO.3(P) B.T.M LAYOUT",
+        "line2": "1ST STAGE 1ST PHASE TAVAREKERE",
+        "postalCode": "560076",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "TAVARAKERE, BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "ADVAITA BHARAT PETROLEUM DEALERS",
+      "email": "advaita131333@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.916857,
+        "longitude": 77.609869
+      },
+      "name": "ADVAITA BHARAT PETROLEUM DEALERS",
+      "roId": "0000131333",
+      "telephone": "8095763666",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9448068599",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "prk131645@bpclretail.in",
+        "formattedAddress": "SITE NO.2 & 2/8, 3RD CROSS J.J.NAGAR, BANGALORE, BANGLAORE-URB, 560026, India",
+        "id": "8798656102423",
+        "line1": "SITE NO.2 & 2/8",
+        "line2": "3RD CROSS J.J.NAGAR",
+        "postalCode": "560026",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "P.R.K. AUTO SERVICE BHARAT PETROLEUM DEALERS",
+      "email": "prk131645@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.957386,
+        "longitude": 77.55114
+      },
+      "name": "P.R.K. AUTO SERVICE BHARAT PETROLEUM DEALERS",
+      "roId": "0000131645",
+      "telephone": "9448068599",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9886195297",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "omsai144557@bpclretail.in",
+        "formattedAddress": "SITE NO. 3071, 14TH CROSS, SHANTHI NAGAR, BANGALORE, BANGLAORE-URB, 560070, India",
+        "id": "8798536138775",
+        "line1": "SITE NO. 3071, 14TH CROSS",
+        "line2": "SHANTHI NAGAR",
+        "postalCode": "560070",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "OM SAI RAM FILLING STATION BHARAT PETROLEUM DEALERS",
+      "email": "omsai144557@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.929772,
+        "longitude": 77.568451
+      },
+      "name": "OM SAI RAM FILLING STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000144557",
+      "telephone": "9886195297",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9448886181",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "saibalaji139210@bpclretail.in",
+        "formattedAddress": "NO. 67 & 68, DR. RAJAGOPAL ROAD, AMARJYOTHI HBCS LAYOUT, BANGALORE, BANGLAORE-URB, 560094, India",
+        "id": "8798771413015",
+        "line1": "NO. 67 & 68, DR. RAJAGOPAL ROAD",
+        "line2": "AMARJYOTHI HBCS LAYOUT",
+        "postalCode": "560094",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SRI SAI BALAJI & CO BHARAT PETROLEUM DEALERS",
+      "email": "saibalaji139210@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.036908,
+        "longitude": 77.574461
+      },
+      "name": "SRI SAI BALAJI & CO BHARAT PETROLEUM DEALERS",
+      "roId": "0000139210",
+      "telephone": "9448886181",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9480677382",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "cauvery104427@bpclretail.in",
+        "formattedAddress": "LALBAGH WEST GATE, BASAVANAGUDI, BANGALORE, BANGLAORE-URB, 560004, India",
+        "id": "8798006345751",
+        "line1": "LALBAGH WEST GATE",
+        "line2": "BASAVANAGUDI",
+        "postalCode": "560004",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "CAUVERY AUTO SERVICE BHARAT PETROLEUM DEALERS",
+      "email": "cauvery104427@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.947924,
+        "longitude": 77.579512
+      },
+      "name": "CAUVERY AUTO SERVICE BHARAT PETROLEUM DEALERS",
+      "roId": "0000104427",
+      "telephone": "9480677382",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845007979",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "gbsreddi104436@bpclretail.in",
+        "formattedAddress": "NEHRU CIRCLE, SESHADRIPURAM, BANGALORE, BANGLAORE-URB, 560020, India",
+        "id": "8798006640663",
+        "line1": "NEHRU CIRCLE",
+        "line2": "SESHADRIPURAM",
+        "postalCode": "560020",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "G.B.S. REDDI & CO. BHARAT PETROLEUM DEALERS",
+      "email": "gbsreddi104436@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.988262,
+        "longitude": 77.577618
+      },
+      "name": "G.B.S. REDDI & CO. BHARAT PETROLEUM DEALERS",
+      "roId": "0000104436",
+      "telephone": "9845007979",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845047400",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "gokula104442@bpclretail.in",
+        "formattedAddress": "OLD MADRAS ROAD, KRISHNARAJA PURAM RAILWAY STATION, BANGALORE, BANGLAORE-URB, 560016, India",
+        "id": "8798006837271",
+        "line1": "OLD MADRAS ROAD",
+        "line2": "KRISHNARAJA PURAM RAILWAY STATION",
+        "postalCode": "560016",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "In_Out",
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "GOKULA SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "gokula104442@bpclretail.in",
+      "geoPoint": {
+        "latitude": 12.99797,
+        "longitude": 77.67066
+      },
+      "name": "GOKULA SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000104442",
+      "telephone": "9845047400"
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9686654533",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "india104446@bpclretail.in",
+        "formattedAddress": "KASTURBA ROAD, KASTURBA ROAD, BANGALORE, BANGLAORE-URB, 560001, India",
+        "id": "9495329800215",
+        "line1": "KASTURBA ROAD",
+        "line2": "KASTURBA ROAD",
+        "postalCode": "560001",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "In_Out",
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "INDIA GARAGE SERVICE STATION",
+      "email": "india104446@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.975928,
+        "longitude": 77.597894
+      },
+      "name": "INDIA GARAGE SERVICE STATION",
+      "roId": "0000104446",
+      "telephone": "9686654533",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9900510000",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "jayanagar104451@bpclretail.in",
+        "formattedAddress": "SOUTHEND CIRCLE, JAYANAGAR, BANGALORE, BANGLAORE-URB, 560011, India",
+        "id": "8798007132183",
+        "line1": "SOUTHEND CIRCLE",
+        "line2": "JAYANAGAR",
+        "postalCode": "560011",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "JAYANAGAR SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "jayanagar104451@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.93656,
+        "longitude": 77.580469
+      },
+      "name": "JAYANAGAR SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000104451",
+      "telephone": "9900510000",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9902485688",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "guruswamy104454@bpclretail.in",
+        "formattedAddress": "J.C.ROAD, BANGALORE, BANGALORE, BANGLAORE-URB, 560002, India",
+        "id": "9808395501591",
+        "line1": "J.C.ROAD",
+        "line2": "BANGALORE",
+        "postalCode": "560002",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "K N GURUSWAMY BHARAT PETROLEUM DEALERS",
+      "email": "guruswamy104454@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.9586433,
+        "longitude": 77.582477
+      },
+      "name": "K N GURUSWAMY BHARAT PETROLEUM DEALERS",
+      "roId": "0000104454",
+      "telephone": "9902485688",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9916563336",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "kripaniketan104459@bpclretail.in",
+        "formattedAddress": "BASAVESHWARNAGAR MAIN ROAD, BASAVESHWARANAGAR, BANGALORE, BANGLAORE-URB, 560079, India",
+        "id": "8798007394327",
+        "line1": "BASAVESHWARNAGAR MAIN ROAD",
+        "line2": "BASAVESHWARANAGAR",
+        "postalCode": "560079",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "KRIPANIKETAN BHARAT PETROLEUM DEALERS",
+      "email": "kripaniketan104459@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.985254,
+        "longitude": 77.543336
+      },
+      "name": "KRIPANIKETAN BHARAT PETROLEUM DEALERS",
+      "roId": "0000104459",
+      "telephone": "9916563336",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9480171894",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "pethis104484@bpclretail.in",
+        "formattedAddress": "4TH BLOCK, RAJAJINGAR, BANGALORE, BANGLAORE-URB, 560010, India",
+        "id": "8798008213527",
+        "line1": "4TH BLOCK",
+        "line2": "RAJAJINGAR",
+        "postalCode": "560010",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "PETHI`S CORNER BHARAT PETROLEUM DEALERS",
+      "email": "pethis104484@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.984183,
+        "longitude": 77.560091
+      },
+      "name": "PETHI`S CORNER BHARAT PETROLEUM DEALERS",
+      "roId": "0000104484",
+      "telephone": "9480171894",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9108567426",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "pethissrv104486@bpclretail.in",
+        "formattedAddress": "MAGADI ROAD, VIJAYANAGAR, BANGALORE, BANGLAORE-URB, 560079, India",
+        "id": "8798008279063",
+        "line1": "MAGADI ROAD",
+        "line2": "VIJAYANAGAR",
+        "postalCode": "560079",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "PETHIS SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "pethissrv104486@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.974994,
+        "longitude": 77.548051
+      },
+      "name": "PETHIS SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000104486",
+      "telephone": "9108567426",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9113869706",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "quick104489@bpclretail.in",
+        "formattedAddress": "K.H.DOUBLE ROAD, SHANTINAGAR, BANGALORE, BANGLAORE-URB, 560027, India",
+        "id": "8798008377367",
+        "line1": "K.H.DOUBLE ROAD",
+        "line2": "SHANTINAGAR",
+        "postalCode": "560027",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "QUICK SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "quick104489@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.962086,
+        "longitude": 77.594222
+      },
+      "name": "QUICK SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000104489",
+      "telephone": "9113869706",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845032519",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "ramachandra104490@bpclretail.in",
+        "formattedAddress": "MYSORE ROAD, BRIAND CIRCLE, BANGALORE, BANGLAORE-URB, 560002, India",
+        "id": "8798008410135",
+        "line1": "MYSORE ROAD",
+        "line2": "BRIAND CIRCLE",
+        "postalCode": "560002",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "RAMACHANDRA BROTHERS BHARAT PETROLEUM DEALERS",
+      "email": "ramachandra104490@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.964084,
+        "longitude": 77.570433
+      },
+      "name": "RAMACHANDRA BROTHERS BHARAT PETROLEUM DEALERS",
+      "roId": "0000104490",
+      "telephone": "9845032519",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9886643549",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "lakshmiserv104503@bpclretail.in",
+        "formattedAddress": "GOKULA, JALAHALLI, BANGALORE, BANGLAORE-URB, 560013, India",
+        "id": "8798008836119",
+        "line1": "GOKULA",
+        "line2": "JALAHALLI",
+        "postalCode": "560013",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SRI LAKSHMI SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "lakshmiserv104503@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 13.043085,
+        "longitude": 77.556769
+      },
+      "name": "SRI LAKSHMI SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000104503",
+      "telephone": "9886643549",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9448288002",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "maruthi104507@bpclretail.in",
+        "formattedAddress": "MYSORE ROAD, NAYANDAHALLI, BANGALORE, BANGLAORE-URB, 560039, India",
+        "id": "8798008967191",
+        "line1": "MYSORE ROAD",
+        "line2": "NAYANDAHALLI",
+        "postalCode": "560039",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SRI MARUTHI SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "maruthi104507@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.938212,
+        "longitude": 77.522186
+      },
+      "name": "SRI MARUTHI SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000104507",
+      "telephone": "9448288002",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9972515001",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "srishankara104512@bpclretail.in",
+        "formattedAddress": "8TH MAIN ROAD, MALLESWARAM, BANGALORE, BANGLAORE-URB, 560055, India",
+        "id": "8798009131031",
+        "line1": "8TH MAIN ROAD",
+        "line2": "MALLESWARAM",
+        "postalCode": "560055",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "In_Out",
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SRI SHANKARA SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "srishankara104512@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED",
+        "SPEED 100 BS IV"
+      ],
+      "geoPoint": {
+        "latitude": 13.009684,
+        "longitude": 77.562416
+      },
+      "name": "SRI SHANKARA SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000104512",
+      "telephone": "9972515001",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        },
+        {
+          "code": "SPEED 100 BS IV",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED 100 BS IV",
+          "price": 169
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845066637",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "sangam104517@bpclretail.in",
+        "formattedAddress": "PALACE ORCHARDS, SADASHIVANAGAR, SADASHIVNAGAR, BANGALORE, BANGLAORE-URB, 560003, India",
+        "id": "8797275095063",
+        "line1": "PALACE ORCHARDS",
+        "line2": "SADASHIVANAGAR",
+        "postalCode": "560003",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "SADASHIVNAGAR, BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SANGAM SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "sangam104517@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.004886,
+        "longitude": 77.580742
+      },
+      "name": "SANGAM SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000104517",
+      "telephone": "9845066637",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9341257026",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "tallam104520@bpclretail.in",
+        "formattedAddress": "144/1, NEAR SIRSI CIRCLE, MYSORE ROAD, BANGALORE, BANGLAORE-URB, 560082, India",
+        "id": "9170601082903",
+        "line1": "144/1, NEAR SIRSI CIRCLE",
+        "line2": "MYSORE ROAD",
+        "postalCode": "560082",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "TALLAM AUTO MOBILES BHARAT PETROLEUM DEALERS",
+      "email": "tallam104520@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.960304,
+        "longitude": 77.55727
+      },
+      "name": "TALLAM AUTO MOBILES BHARAT PETROLEUM DEALERS",
+      "roId": "0000104520",
+      "telephone": "9341257026",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845302784",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "universal104526@bpclretail.in",
+        "formattedAddress": "COCK BURN ROAD, CONTT. RLY STN, BANGALORE, BANGLAORE-URB, 560051, India",
+        "id": "8798009557015",
+        "line1": "COCK BURN ROAD",
+        "line2": "CONTT. RLY STN",
+        "postalCode": "560051",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "UNIVERSAL FILLING STATION BHARAT PETROLEUM DEALERS",
+      "email": "universal104526@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.991754,
+        "longitude": 77.6040757
+      },
+      "name": "UNIVERSAL FILLING STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000104526",
+      "telephone": "9845302784",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9880187006",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "venkateswara104529@bpclretail.in",
+        "formattedAddress": "HOSUR NH, MADIVALA, MADIVALA, BANGALORE, BANGLAORE-URB, 560068, India",
+        "id": "8798009655319",
+        "line1": "HOSUR NH",
+        "line2": "MADIVALA",
+        "postalCode": "560068",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "MADIVALA, BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "VENKATESWARA & COMPANY BHARAT PETROLEUM DEALERS",
+      "email": "venkateswara104529@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.920808,
+        "longitude": 77.620826
+      },
+      "name": "VENKATESWARA & COMPANY BHARAT PETROLEUM DEALERS",
+      "roId": "0000104529",
+      "telephone": "9880187006",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9686625688",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "vinod104532@bpclretail.in",
+        "formattedAddress": "WHEELER ROAD, FRAZER TOWN, FRAZER TOWN BANGALORE, BANGLAORE-URB, 560005, India",
+        "id": "8798009753623",
+        "line1": "WHEELER ROAD",
+        "line2": "FRAZER TOWN",
+        "postalCode": "560005",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "FRAZER TOWN BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "In_Out",
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "VINOD AUTO SERVICE BHARAT PETROLEUM DEALERS",
+      "email": "vinod104532@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.990909,
+        "longitude": 77.613889
+      },
+      "name": "VINOD AUTO SERVICE BHARAT PETROLEUM DEALERS",
+      "roId": "0000104532",
+      "telephone": "9686625688",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845014956",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "vasundara123207@bpclretail.in",
+        "formattedAddress": "HOSUR ROAD,, BOMMANAHALLI,, BANGALORE, BANGLAORE-URB, 560029, India",
+        "id": "8800776552471",
+        "line1": "HOSUR ROAD,",
+        "line2": "BOMMANAHALLI,",
+        "postalCode": "560029",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "VASUNDARA AUTO SERVICE BHARAT PETROLEUM DEALERS",
+      "email": "vasundara123207@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.910868,
+        "longitude": 77.626966
+      },
+      "name": "VASUNDARA AUTO SERVICE BHARAT PETROLEUM DEALERS",
+      "roId": "0000123207",
+      "telephone": "9845014956",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9880540091",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "interstates123849@bpclretail.in",
+        "formattedAddress": "727 MODI HOSPITAL ROAD, NEXT TO CHORD ROAD, BANGALORE, BANGLAORE-URB, 560086, India",
+        "id": "8800792084503",
+        "line1": "727 MODI HOSPITAL ROAD",
+        "line2": "NEXT TO CHORD ROAD",
+        "postalCode": "560086",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "INTERSTATE HIGHWAYS BHARAT PETROLEUM DEALERS",
+      "email": "interstates123849@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.99725,
+        "longitude": 77.546926
+      },
+      "name": "INTERSTATE HIGHWAYS BHARAT PETROLEUM DEALERS",
+      "roId": "0000123849",
+      "telephone": "9880540091",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9739931734",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "jogi146257@bpclretail.in",
+        "formattedAddress": "NO. 46, SY. NO. 12/1, UTTARAHALLI MAIN ROAD, BANGALORE, BANGLAORE-URB, 560061, India",
+        "id": "8798879154199",
+        "line1": "NO. 46, SY. NO. 12/1",
+        "line2": "UTTARAHALLI MAIN ROAD",
+        "postalCode": "560061",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "Parking",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "JOGI ENTERPRISING SERVICE BHARAT PETROLEUM DEALERS",
+      "email": "jogi146257@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.9070994,
+        "longitude": 77.5462742
+      },
+      "name": "JOGI ENTERPRISING SERVICE BHARAT PETROLEUM DEALERS",
+      "roId": "0000146257",
+      "telephone": "9739931734",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9141369138",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "mchinnappa156996@bpclretail.in",
+        "formattedAddress": "SY. NO. 38, KHB ROAD, R.T. NAGAR, MANARAYANA PALAYA, BANGALORE, BANGLAORE-URB, 560032, India",
+        "id": "8799093489687",
+        "line1": "SY. NO. 38, KHB ROAD",
+        "line2": "R.T. NAGAR, MANARAYANA PALAYA",
+        "postalCode": "560032",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "M. CHINNAPPA & SONS BHARAT PETROLEUM DEALERS",
+      "email": "mchinnappa156996@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.030112,
+        "longitude": 77.607885
+      },
+      "name": "M. CHINNAPPA & SONS BHARAT PETROLEUM DEALERS",
+      "roId": "0000156996",
+      "telephone": "9141369138",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9742259816",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "bangalore158021@bpclretail.in",
+        "formattedAddress": "SITE NO. 88, MYSORE ROAD, BANGALORE, BANGLAORE-URB, 560018, India",
+        "id": "8799117475863",
+        "line1": "SITE NO. 88",
+        "line2": "MYSORE ROAD",
+        "postalCode": "560018",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "THE BANGALORE PRESS (PETROLEUM BHARAT PETROLEUM DEALERS",
+      "email": "bangalore158021@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.961947,
+        "longitude": 77.564213
+      },
+      "name": "THE BANGALORE PRESS (PETROLEUM BHARAT PETROLEUM DEALERS",
+      "roId": "0000158021",
+      "telephone": "9742259816",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845610917",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "varshath140601@bpclretail.in",
+        "formattedAddress": "NO E-1/7, SYNDICATE BANK COLONY, BANNERGHATTA ROAD, BANGALORE, BANGLAORE-URB, 560076, India",
+        "id": "8800962019351",
+        "line1": "NO E-1/7, SYNDICATE BANK COLONY",
+        "line2": "BANNERGHATTA ROAD",
+        "postalCode": "560076",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SRI VARSHATH BHARAT PETROLEUM DEALERS",
+      "email": "varshath140601@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.883924,
+        "longitude": 77.596152
+      },
+      "name": "SRI VARSHATH BHARAT PETROLEUM DEALERS",
+      "roId": "0000140601",
+      "telephone": "9845610917",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9986444283",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "anuraag141160@bpclretail.in",
+        "formattedAddress": "NO. 26, 100 FT ROAD, KORAMANGALA, SRINIVAGILE INNER RING ROAD, KORAMANGALA, BANGALORE, BANGLAORE-URB, 560034, India",
+        "id": "8800974274583",
+        "line1": "NO. 26, 100 FT ROAD, KORAMANGALA",
+        "line2": "SRINIVAGILE INNER RING ROAD",
+        "postalCode": "560034",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "KORAMANGALA, BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "ANURAAG FAMILY TRUST BHARAT PETROLEUM DEALERS",
+      "email": "anuraag141160@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.938733,
+        "longitude": 77.630712
+      },
+      "name": "ANURAAG FAMILY TRUST BHARAT PETROLEUM DEALERS",
+      "roId": "0000141160",
+      "telephone": "9986444283",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9742823474",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "popular178386@bpclretail.in",
+        "formattedAddress": "SY.NO. 20/1, MALATHAHALLI RING ROAD, YESHWANTPUR HOBLI, BANGALORE NORTH, BANGALORE, BANGLAORE-URB, 560072, India",
+        "id": "8799550373911",
+        "line1": "SY.NO. 20/1, MALATHAHALLI RING ROAD",
+        "line2": "YESHWANTPUR HOBLI, BANGALORE NORTH",
+        "postalCode": "560072",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "Parking",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "POPULAR FUEL STATION BHARAT PETROLEUM DEALERS",
+      "email": "popular178386@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.968592,
+        "longitude": 77.506221
+      },
+      "name": "POPULAR FUEL STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000178386",
+      "telephone": "9742823474",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9945036526",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "reddy165627@bpclretail.in",
+        "formattedAddress": "NO. 1/3,, BEGUR ROAD, BANGALORE, BANGLAORE-URB, 560068, India",
+        "id": "8799295995927",
+        "line1": "NO. 1/3,",
+        "line2": "BEGUR ROAD",
+        "postalCode": "560068",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "REDDY FILLING STATION BHARAT PETROLEUM DEALERS",
+      "email": "reddy165627@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.903726,
+        "longitude": 77.627031
+      },
+      "name": "REDDY FILLING STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000165627",
+      "telephone": "9945036526",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9901011775",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "gowdas167834@bpclretail.in",
+        "formattedAddress": "SY NO 329/3, ATTIGUPPE,, VIJAYANAGAR, ATTIGUPPE,VIJAYANAGAR, BANGLAORE-URB, 560040, India",
+        "id": "8799340920855",
+        "line1": "SY NO 329/3, ATTIGUPPE,",
+        "line2": "VIJAYANAGAR",
+        "postalCode": "560040",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "ATTIGUPPE,VIJAYANAGAR",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "GOWDAS BHARAT PETROLEUM DEALERS",
+      "email": "gowdas167834@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.959884,
+        "longitude": 77.532723
+      },
+      "name": "GOWDAS BHARAT PETROLEUM DEALERS",
+      "roId": "0000167834",
+      "telephone": "9901011775",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "7760300976",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "krishi171294@bpclretail.in",
+        "formattedAddress": "NO.18/2, RING ROAD, MALLATHAHALLI, OPP. AMBEDKAR ENGG. COLLEGE, BANGALORE, BANGLAORE-URB, 560056, India",
+        "id": "8799416385559",
+        "line1": "NO.18/2, RING ROAD, MALLATHAHALLI",
+        "line2": "OPP. AMBEDKAR ENGG. COLLEGE",
+        "postalCode": "560056",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "KRISHI FUEL JUNCTION BHARAT PETROLEUM DEALERS",
+      "email": "krishi171294@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.966386,
+        "longitude": 77.504793
+      },
+      "name": "KRISHI FUEL JUNCTION BHARAT PETROLEUM DEALERS",
+      "roId": "0000171294",
+      "telephone": "7760300976",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9008507777",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "sas147155@bpclretail.in",
+        "formattedAddress": "93, SSI AREA, 5TH, CROSS,DR. RAJKUMAR ROAD, BANGALORE, BANGLAORE-URB, 560010, India",
+        "id": "8798901633047",
+        "line1": "93, SSI AREA",
+        "line2": "5TH, CROSS,DR. RAJKUMAR ROAD",
+        "postalCode": "560010",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SAS ENTERPRISES BHARAT PETROLEUM DEALERS",
+      "email": "sas147155@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.980601,
+        "longitude": 77.557184
+      },
+      "name": "SAS ENTERPRISES BHARAT PETROLEUM DEALERS",
+      "roId": "0000147155",
+      "telephone": "9008507777",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9945690244",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "patel148213@bpclretail.in",
+        "formattedAddress": "SITE NO. 617/563-9/1, KOTHANUR, BANGALORE, BANGLAORE-URB, 560077, India",
+        "id": "8798930501655",
+        "line1": "SITE NO. 617/563-9/1",
+        "line2": "KOTHANUR",
+        "postalCode": "560077",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "PATEL SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "patel148213@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.059347,
+        "longitude": 77.648921
+      },
+      "name": "PATEL SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000148213",
+      "telephone": "9945690244",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9036166946",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "valsala148214@bpclretail.in",
+        "formattedAddress": "NO. 49/13B, SRIGANDADAKAVAL, MAGADI MAIN ROAD, BANGALORE, BANGLAORE-URB, 560091, India",
+        "id": "8798930534423",
+        "line1": "NO. 49/13B, SRIGANDADAKAVAL",
+        "line2": "MAGADI MAIN ROAD",
+        "postalCode": "560091",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "Parking",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SRI VALSALA FUEL STATION BHARAT PETROLEUM DEALERS",
+      "email": "valsala148214@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.988642,
+        "longitude": 77.510944
+      },
+      "name": "SRI VALSALA FUEL STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000148214",
+      "telephone": "9036166946",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9342813117",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "mr159197@bpclretail.in",
+        "formattedAddress": "SITE NO. 1,  KATHA NO. 387,, HORAMAVU MAIN ROAD, BANGALORE, BANGLAORE-URB, 560043, India",
+        "id": "8799151685655",
+        "line1": "SITE NO. 1,  KATHA NO. 387,",
+        "line2": "HORAMAVU MAIN ROAD",
+        "postalCode": "560043",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "M.R. ENTERPRISES BHARAT PETROLEUM DEALERS",
+      "email": "mr159197@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.03123,
+        "longitude": 77.669642
+      },
+      "name": "M.R. ENTERPRISES BHARAT PETROLEUM DEALERS",
+      "roId": "0000159197",
+      "telephone": "9342813117",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9902820066",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "msd159211@bpclretail.in",
+        "formattedAddress": "SY. NO. 50,NO. 17, MAGADI MAIN ROAD, KAMAKSHI PALAYA, KAMAKSHIPALAYA, BANGALORE, BANGLAORE-URB, 560079, India",
+        "id": "8799152013335",
+        "line1": "SY. NO. 50,NO. 17, MAGADI MAIN ROAD",
+        "line2": "KAMAKSHI PALAYA",
+        "postalCode": "560079",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "KAMAKSHIPALAYA, BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "M.S.D FILLING STATION BHARAT PETROLEUM DEALERS",
+      "email": "msd159211@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.986166,
+        "longitude": 77.521379
+      },
+      "name": "M.S.D FILLING STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000159211",
+      "telephone": "9902820066",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9902011601",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "sreeshakthi141619@bpclretail.in",
+        "formattedAddress": "NO. 32, ANNAYAPPA COLONY, NEW TIPPASANDRA MAIN ROAD, BANGALORE, BANGLAORE-URB, 560075, India",
+        "id": "8801758281751",
+        "line1": "NO. 32, ANNAYAPPA COLONY",
+        "line2": "NEW TIPPASANDRA MAIN ROAD",
+        "postalCode": "560075",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SREE SHAKTHI GANAPATHI PETRO S BHARAT PETROLEUM DEALERS",
+      "email": "sreeshakthi141619@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.971794,
+        "longitude": 77.65446
+      },
+      "name": "SREE SHAKTHI GANAPATHI PETRO S BHARAT PETROLEUM DEALERS",
+      "roId": "0000141619",
+      "telephone": "9902011601",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9916430329",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "nandini141885@bpclretail.in",
+        "formattedAddress": "53, HOSUR MAIN ROAD, WILSON GARDEN, OPP. 10TH CROSS, AREKEMPANAHALLI, BANGALOR, BANGLAORE-URB, 560027, India",
+        "id": "8801797341207",
+        "line1": "53, HOSUR MAIN ROAD, WILSON GARDEN",
+        "line2": "OPP. 10TH CROSS",
+        "postalCode": "560027",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "AREKEMPANAHALLI, BANGALOR",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "Parking",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "NANDINI FUEL STATION BHARAT PETROLEUM DEALERS",
+      "email": "nandini141885@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.945814,
+        "longitude": 77.595284
+      },
+      "name": "NANDINI FUEL STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000141885",
+      "telephone": "9916430329",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9945042476",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "gurukrupa142091@bpclretail.in",
+        "formattedAddress": "SY. NO. 23 (PART),, 57, SRI GURUKRUPA LAYOUT, 80 FT RD, BANGALORE, BANGLAORE-URB, 560072, India",
+        "id": "8801802059799",
+        "line1": "SY. NO. 23 (PART),",
+        "line2": "57, SRI GURUKRUPA LAYOUT, 80 FT RD",
+        "postalCode": "560072",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "GURUKRUPA FUEL JUNCTION BHARAT PETROLEUM DEALERS",
+      "email": "gurukrupa142091@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.96088,
+        "longitude": 77.510607
+      },
+      "name": "GURUKRUPA FUEL JUNCTION BHARAT PETROLEUM DEALERS",
+      "roId": "0000142091",
+      "telephone": "9945042476",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9448084559",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "shreshtha148667@bpclretail.in",
+        "formattedAddress": "C.A. SITE NO. 2, OUTER RING ROAD, HRBR LAYOUT, BANGALORE, BANGLAORE-URB, 560043, India",
+        "id": "8798936825879",
+        "line1": "C.A. SITE NO. 2, OUTER RING ROAD",
+        "line2": "HRBR LAYOUT",
+        "postalCode": "560043",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "ATM",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SHRESHTHA BHARAT PETROLEUM DEALERS",
+      "email": "shreshtha148667@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED",
+        "SPEED 100 BS IV"
+      ],
+      "geoPoint": {
+        "latitude": 13.0262819,
+        "longitude": 77.6351247
+      },
+      "name": "SHRESHTHA BHARAT PETROLEUM DEALERS",
+      "roId": "0000148667",
+      "telephone": "9448084559",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        },
+        {
+          "code": "SPEED 100 BS IV",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED 100 BS IV",
+          "price": 169
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "8095574615",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "udaya148686@bpclretail.in",
+        "formattedAddress": "NO. 7,7/1,7/2, MARKANDESWARA NAGAR, BINNYPET, MAGADI MAIN ROAD, BINNIPET, BANGALORE, BANGLAORE-URB, 560023, India",
+        "id": "8798937382935",
+        "line1": "NO. 7,7/1,7/2, MARKANDESWARA NAGAR",
+        "line2": "BINNYPET, MAGADI MAIN ROAD",
+        "postalCode": "560023",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BINNIPET, BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "UDAYA FILLING STATION BHARAT PETROLEUM DEALERS",
+      "email": "udaya148686@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.966811,
+        "longitude": 77.56294
+      },
+      "name": "UDAYA FILLING STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000148686",
+      "telephone": "8095574615",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "8105289644",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "delhi149423@bpclretail.in",
+        "formattedAddress": "NO. 33, 33/6 & 33/7,, BANASWADI MAIN ROAD, BANGALORE, BANGLAORE-URB, 560005, India",
+        "id": "8798961369111",
+        "line1": "NO. 33, 33/6 & 33/7,",
+        "line2": "BANASWADI MAIN ROAD",
+        "postalCode": "560005",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "DELHI NARAYANAPPA SERVICE STAT BHARAT PETROLEUM DEALERS",
+      "email": "delhi149423@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.001589,
+        "longitude": 77.631472
+      },
+      "name": "DELHI NARAYANAPPA SERVICE STAT BHARAT PETROLEUM DEALERS",
+      "roId": "0000149423",
+      "telephone": "8105289644",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9900002050",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "jainpax174082@bpclretail.in",
+        "formattedAddress": "NO.639A, 18TH MAIN, IDEAL HOMES, TOWNSHIP, RAJARAJESHWARI NAGAR, BANGALORE, BANGLAORE-URB, 560098, India",
+        "id": "8799449055255",
+        "line1": "NO.639A, 18TH MAIN, IDEAL HOMES",
+        "line2": "TOWNSHIP, RAJARAJESHWARI NAGAR",
+        "postalCode": "560098",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "JAINPAX FILLING CENTRE BHARAT PETROLEUM DEALERS",
+      "email": "jainpax174082@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.929361,
+        "longitude": 77.514245
+      },
+      "name": "JAINPAX FILLING CENTRE BHARAT PETROLEUM DEALERS",
+      "roId": "0000174082",
+      "telephone": "9900002050",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "8147246566",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "chowdeshwari169718@bpclretail.in",
+        "formattedAddress": "NO 381/1, BEGUR VILLAGE,, BEGUR HOBLI, BANGALORE SOUTH TALUK, BANGALORE, BANGLAORE-URB, 560068, India",
+        "id": "8799382601751",
+        "line1": "NO 381/1, BEGUR VILLAGE,",
+        "line2": "BEGUR HOBLI, BANGALORE SOUTH TALUK",
+        "postalCode": "560068",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SRI CHOWDESHWARI PETRO SERVICE BHARAT PETROLEUM DEALERS",
+      "email": "chowdeshwari169718@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.882148,
+        "longitude": 77.624966
+      },
+      "name": "SRI CHOWDESHWARI PETRO SERVICE BHARAT PETROLEUM DEALERS",
+      "roId": "0000169718",
+      "telephone": "8147246566",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.94
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.97
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9880989000",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "jsnpetr186538@bpclretail.in",
+        "formattedAddress": "SY. NO. 45/1, SARJAPUR ROAD, KAIKONDRAHALLI, BANGAL, BANGLAORE-URB, 560035, India",
+        "id": "8799700516887",
+        "line1": "SY. NO. 45/1, SARJAPUR ROAD",
+        "line2": "KAIKONDRAHALLI",
+        "postalCode": "560035",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGAL",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "Parking",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "J S N PETROL PUMP BHARAT PETROLEUM DEALERS",
+      "email": "jsnpetr186538@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.914914,
+        "longitude": 77.675496
+      },
+      "name": "J S N PETROL PUMP BHARAT PETROLEUM DEALERS",
+      "roId": "0000186538",
+      "telephone": "9880989000",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9886073963",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "srimaru187479@bpclretail.in",
+        "formattedAddress": "SY NO. 20/1 & 21/1, GANNEKAL (V), KENGERI-UTTA.I RD, KENGERI HOBLI, BANGALORE, BANGLAORE-URB, 560060, India",
+        "id": "8797536452631",
+        "line1": "SY NO. 20/1 & 21/1, GANNEKAL (V)",
+        "line2": "KENGERI-UTTA.I RD, KENGERI HOBLI",
+        "postalCode": "560060",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SREE RAJARAJESHWARI FILLING ST BHARAT PETROLEUM DEALERS",
+      "email": "srimaru187479@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.904287,
+        "longitude": 77.506617
+      },
+      "name": "SREE RAJARAJESHWARI FILLING ST BHARAT PETROLEUM DEALERS",
+      "roId": "0000187479",
+      "telephone": "9886073963",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845599771",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "cnsfuel187585@bpclretail.in",
+        "formattedAddress": "SY NO. 20/2A2, THANISANDRA ROAD, THANISANDRA, BANGALORE, BANGLAORE-URB, 560077, India",
+        "id": "8799714410519",
+        "line1": "SY NO. 20/2A2, THANISANDRA ROAD",
+        "line2": "THANISANDRA",
+        "postalCode": "560077",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "CNS FUEL PORT BHARAT PETROLEUM DEALERS",
+      "email": "cnsfuel187585@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.056086,
+        "longitude": 77.632152
+      },
+      "name": "CNS FUEL PORT BHARAT PETROLEUM DEALERS",
+      "roId": "0000187585",
+      "telephone": "9845599771",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9880551117",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "bengalu188390@bpclretail.in",
+        "formattedAddress": "SY NO 88, DODDAKALASANDRA (V), NEAR KONANKUNTE X, KANAKAPURA RD, BANGALORE, BANGLAORE-URB, 560078, India",
+        "id": "8799742165015",
+        "line1": "SY NO 88, DODDAKALASANDRA (V)",
+        "line2": "NEAR KONANKUNTE X, KANAKAPURA RD",
+        "postalCode": "560078",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "BENGALURU FILLING STATION BHARAT PETROLEUM DEALERS",
+      "email": "bengalu188390@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.88558,
+        "longitude": 77.555017
+      },
+      "name": "BENGALURU FILLING STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000188390",
+      "telephone": "9880551117",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9071447395",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "srinageshwarafc194199@bpclretail.in",
+        "formattedAddress": "SY O 35/1, BSK 6TH STAGE, 2ND BLK, 80FT RD, UTTARAHALLI HOBLI, BANGALORE, BANGLAORE-URB, 560098, India",
+        "id": "8854289022999",
+        "line1": "SY O 35/1, BSK 6TH STAGE",
+        "line2": "2ND BLK, 80FT RD, UTTARAHALLI HOBLI",
+        "postalCode": "560098",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SRI NAGESHWARA FILLING CENTER BHARAT PETROLEUM DEALERS",
+      "email": "srinageshwarafc194199@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.892581,
+        "longitude": 77.521473
+      },
+      "name": "SRI NAGESHWARA FILLING CENTER BHARAT PETROLEUM DEALERS",
+      "roId": "0000194199",
+      "telephone": "9071447395",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845505555",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "sai175238@bpclretail.in",
+        "formattedAddress": "SY NO 15-17,40-42,T.C.PALYA ROAD, HOYSALANAGAR, BANGALORE, BANGLAORE-URB, 560036, India",
+        "id": "8799474417687",
+        "line1": "SY NO 15-17,40-42,T.C.PALYA ROAD",
+        "line2": "HOYSALANAGAR",
+        "postalCode": "560036",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SRI SAI SIRISH ENTERPRISES BHARAT PETROLEUM DEALERS",
+      "email": "sai175238@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.01535,
+        "longitude": 77.666438
+      },
+      "name": "SRI SAI SIRISH ENTERPRISES BHARAT PETROLEUM DEALERS",
+      "roId": "0000175238",
+      "telephone": "9845505555",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9900055555",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "mr175264@bpclretail.in",
+        "formattedAddress": "SY NO 64 OLD MADRAS ROAD, MURPHY TOWN , ULSOOR, ULSOOR, BANGLAORE-URB, 560008, India",
+        "id": "8799475204119",
+        "line1": "SY NO 64 OLD MADRAS ROAD",
+        "line2": "MURPHY TOWN , ULSOOR",
+        "postalCode": "560008",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "ULSOOR",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "M R  & SONS BHARAT PETROLEUM DEALERS",
+      "email": "mr175264@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.981468,
+        "longitude": 77.630952
+      },
+      "name": "M R  & SONS BHARAT PETROLEUM DEALERS",
+      "roId": "0000175264",
+      "telephone": "9900055555",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9481240660",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "lakshmivenkateshwara175416@bpclretail.in",
+        "formattedAddress": "NO.38(NEW), SY.NO.66, 80 FEET ROAD, RK LAYOUT, PADMANABHA NAGAR, PADMANABANAGAR, BANGLAORE-URB, 560070, India",
+        "id": "8799479201815",
+        "line1": "NO.38(NEW), SY.NO.66, 80 FEET ROAD",
+        "line2": "RK LAYOUT, PADMANABHA NAGAR",
+        "postalCode": "560070",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "PADMANABANAGAR",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SRI LAKSHMIVENKATESHWARA ENTER BHARAT PETROLEUM DEALERS",
+      "email": "lakshmivenkateshwara175416@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.915283,
+        "longitude": 77.558831
+      },
+      "name": "SRI LAKSHMIVENKATESHWARA ENTER BHARAT PETROLEUM DEALERS",
+      "roId": "0000175416",
+      "telephone": "9481240660",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9036511481",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "srivatsargowda@gmail.com",
+        "formattedAddress": "SITE NO 14 SEETHAPPA LAYOUT, RT NAGAR POST, BANGALORE, BANGLAORE-URB, 560032, India",
+        "id": "8801548828695",
+        "line1": "SITE NO 14 SEETHAPPA LAYOUT",
+        "line2": "RT NAGAR POST",
+        "postalCode": "560032",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SLV RAGI FUELS BHARAT PETROLEUM DEALERS",
+      "email": "srivatsargowda@gmail.com",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 13.03319,
+        "longitude": 77.59919
+      },
+      "name": "SLV RAGI FUELS BHARAT PETROLEUM DEALERS",
+      "roId": "0000215849",
+      "telephone": "9036511481",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "nationalss201766@bpclretail.in",
+        "formattedAddress": "NO.28, BTM 4TH STAGE,, 80FT ROAD, NYANAPANAHALLI VILLAGE, BANGALORE, BANGLAORE-URB, 560076, India",
+        "id": "8797685186583",
+        "line1": "NO.28, BTM 4TH STAGE,",
+        "line2": "80FT ROAD, NYANAPANAHALLI VILLAGE",
+        "postalCode": "560076",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "NATIONAL SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "email": "nationalss201766@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.884113,
+        "longitude": 77.610023
+      },
+      "name": "NATIONAL SERVICE STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000201766",
+      "telephone": "9686175666",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9945903637",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "omkarfi181396@bpclretail.in",
+        "formattedAddress": "NO.42/43, NAGARBHAVI MAIN ROAD, MOODALAPALYA, BANGALORE, BANGLAORE-URB, 560072, India",
+        "id": "8799594741783",
+        "line1": "NO.42/43, NAGARBHAVI MAIN ROAD",
+        "line2": "MOODALAPALYA",
+        "postalCode": "560072",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "OMKAR FILLING CENTRE BHARAT PETROLEUM DEALERS",
+      "email": "omkarfi181396@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.970301,
+        "longitude": 77.524611
+      },
+      "name": "OMKAR FILLING CENTRE BHARAT PETROLEUM DEALERS",
+      "roId": "0000181396",
+      "telephone": "9945903637",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845188649",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "padmalay210568@bpclretail.in",
+        "formattedAddress": "849,850,BHARAT HBSC LAYOUT, UTTRAHALLI KENGERI ROAD, BANGALORE, BANGLAORE-URB, 560061, India",
+        "id": "8801448460311",
+        "line1": "849,850,BHARAT HBSC LAYOUT",
+        "line2": "UTTRAHALLI KENGERI ROAD",
+        "postalCode": "560061",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "PADMALAYA FUELS BHARAT PETROLEUM DEALERS",
+      "email": "padmalay210568@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.90489,
+        "longitude": 77.528907
+      },
+      "name": "PADMALAYA FUELS BHARAT PETROLEUM DEALERS",
+      "roId": "0000210568",
+      "telephone": "9845188649",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9916078100",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "emmarfue210569@bpclretail.in",
+        "formattedAddress": "HOSAPALYA MAIN ROAD, HOSAPALYA MAIN ROAD, BANGALORE, BANGLAORE-URB, 560102, India",
+        "id": "9141336899607",
+        "line1": "HOSAPALYA MAIN ROAD",
+        "line2": "HOSAPALYA MAIN ROAD",
+        "postalCode": "560102",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "EMMAR FUEL PARK BHARAT PETROLEUM DEALERS",
+      "email": "emmarfue210569@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.9066125,
+        "longitude": 77.6326662
+      },
+      "name": "EMMAR FUEL PARK BHARAT PETROLEUM DEALERS",
+      "roId": "0000210569",
+      "telephone": "9916078100",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "yashusps197412@bpclretail.in",
+        "formattedAddress": "777 777/A - 9TH MAIN, 34TH CROSS, JAYANAGAR 4TH BLOCK, BANGALORE, BANGLAORE-URB, 560011, India",
+        "id": "8797608017943",
+        "line1": "777 777/A - 9TH MAIN, 34TH CROSS",
+        "line2": "JAYANAGAR 4TH BLOCK",
+        "postalCode": "560011",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "PAXAL FUEL CORPORATION BHARAT PETROLEUM DEALERS",
+      "email": "yashusps197412@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.9253304,
+        "longitude": 77.581681
+      },
+      "name": "PAXAL FUEL CORPORATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000197412",
+      "telephone": "9900002050",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9880473000",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "dreamsps199101@bpclretail.in",
+        "formattedAddress": "NO. 77 & 78, OUTER RING ROAD,, PREM NAGAR, LAGGERE, BANGALORE, BANGLAORE-URB, 560058, India",
+        "id": "8801222361111",
+        "line1": "NO. 77 & 78, OUTER RING ROAD,",
+        "line2": "PREM NAGAR, LAGGERE",
+        "postalCode": "560058",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "DREAMS PETRO SERVICES BHARAT PETROLEUM DEALERS",
+      "email": "dreamsps199101@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.995078,
+        "longitude": 77.521964
+      },
+      "name": "DREAMS PETRO SERVICES BHARAT PETROLEUM DEALERS",
+      "roId": "0000199101",
+      "telephone": "9880473000",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "7022223588",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "reliable212811@bpclretail.in",
+        "formattedAddress": "71/5, TIN FACTORY, BANGALORE, BANGLAORE-URB, 560016, India",
+        "id": "9144483250199",
+        "line1": "71/5",
+        "line2": "TIN FACTORY",
+        "postalCode": "560016",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "RELIABLE FUEL STATION BHARAT PETROLEUM DEALERS",
+      "email": "reliable212811@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.999124,
+        "longitude": 77.674731
+      },
+      "name": "RELIABLE FUEL STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000212811",
+      "telephone": "7022223588",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9448088077",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "vishwavinayaka212908@bpclretail.in",
+        "formattedAddress": "135/22, OPP TO METRO PILLAR NO 547, KENCHENAHALLI VILLAGE, BANGALORE, BANGLAORE-URB, 560098, India",
+        "id": "8801488568343",
+        "line1": "135/22, OPP TO METRO PILLAR NO 547",
+        "line2": "KENCHENAHALLI VILLAGE",
+        "postalCode": "560098",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "VISHWA VINAYAKA PETROLEUM BHARAT PETROLEUM DEALERS",
+      "email": "vishwavinayaka212908@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.9290659,
+        "longitude": 77.5033649
+      },
+      "name": "VISHWA VINAYAKA PETROLEUM BHARAT PETROLEUM DEALERS",
+      "roId": "0000212908",
+      "telephone": "9448088077",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "8549914999",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "vinod104532@bpclretail.in",
+        "formattedAddress": "SITE NO 617/563-9/1, HENNUR MAIN ROAD, BANGALORE, BANGLAORE-URB, 560077, India",
+        "id": "8805543804951",
+        "line1": "SITE NO 617/563-9/1",
+        "line2": "HENNUR MAIN ROAD",
+        "postalCode": "560077",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "VINOD AUTO SERVICE ADHOC BHARAT PETROLEUM DEALERS",
+      "email": "vinod104532@bpclretail.in",
+      "geoPoint": {
+        "latitude": 13.059347,
+        "longitude": 77.648921
+      },
+      "name": "VINOD AUTO SERVICE ADHOC BHARAT PETROLEUM DEALERS",
+      "roId": "0000229849",
+      "telephone": "8549914999"
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9986233339",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "ajreddy3339@gmail.com",
+        "formattedAddress": "SY NO. 246/3 , OMBR LAYOUT, BANASWADI MAIN ROAD, BANGALORE, BANGLAORE-URB, 560043, India",
+        "id": "8801335246871",
+        "line1": "SY NO. 246/3 , OMBR LAYOUT",
+        "line2": "BANASWADI MAIN ROAD",
+        "postalCode": "560043",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "DURGA PARAMESHWARI FUELS BHARAT PETROLEUM DEALERS",
+      "email": "ajreddy3339@gmail.com",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.011,
+        "longitude": 77.646
+      },
+      "name": "DURGA PARAMESHWARI FUELS BHARAT PETROLEUM DEALERS",
+      "roId": "0000213380",
+      "telephone": "9986233339",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "8861792335",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "arc.greenline@gmail.com",
+        "formattedAddress": "SITE NO. 5,16&18, DASARAHALLI MAIN ROAD, BANGALORE, BANGLAORE-URB, 560024, India",
+        "id": "8801503182871",
+        "line1": "SITE NO. 5,16&18",
+        "line2": "DASARAHALLI MAIN ROAD",
+        "postalCode": "560024",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SUVARNA PETRO PARK BHARAT PETROLEUM DEALERS",
+      "email": "arc.greenline@gmail.com",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.055536,
+        "longitude": 77.606695
+      },
+      "name": "SUVARNA PETRO PARK BHARAT PETROLEUM DEALERS",
+      "roId": "0000213595",
+      "telephone": "8861792335",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9320409008",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "deluxefuels220762@bpclretail.in",
+        "formattedAddress": "RANKA COLONY ROAD, BILEKEHALLI, BANGALORE, BANGLAORE-URB, 560076, India",
+        "id": "8801617313815",
+        "line1": "RANKA COLONY ROAD",
+        "line2": "BILEKEHALLI",
+        "postalCode": "560076",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "DELUXE FUELS BHARAT PETROLEUM DEALERS",
+      "email": "deluxefuels220762@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.903355,
+        "longitude": 77.604283
+      },
+      "name": "DELUXE FUELS BHARAT PETROLEUM DEALERS",
+      "roId": "0000220762",
+      "telephone": "9320409008",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9900053819",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "ssrfuelstation@gmail.com",
+        "formattedAddress": "SY. NO 25/4, KYALASANAHALLI, BYRATHI, BANGALORE, BANGLAORE-URB, 560077, India",
+        "id": "8801709555735",
+        "line1": "SY. NO 25/4, KYALASANAHALLI",
+        "line2": "BYRATHI",
+        "postalCode": "560077",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "S.S.R FUEL STATION BHARAT PETROLEUM DEALERS",
+      "email": "ssrfuelstation@gmail.com",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 13.057153,
+        "longitude": 77.663552
+      },
+      "name": "S.S.R FUEL STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000225890",
+      "telephone": "9900053819",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.91
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845064911",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "arunodaya178038@bpclretail.in",
+        "formattedAddress": "NO.54/1&2, BALAJI LAYOUT, TATANAGAR, KODIGEHALLI, SANJAY NAGAR POST, BANGALORE, BANGLAORE-URB, 560094, India",
+        "id": "8799541952535",
+        "line1": "NO.54/1&2, BALAJI LAYOUT, TATANAGAR",
+        "line2": "KODIGEHALLI, SANJAY NAGAR POST",
+        "postalCode": "560094",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "ARUNODAYA FILLING CENTRE BHARAT PETROLEUM DEALERS",
+      "email": "arunodaya178038@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.051572,
+        "longitude": 77.574994
+      },
+      "name": "ARUNODAYA FILLING CENTRE BHARAT PETROLEUM DEALERS",
+      "roId": "0000178038",
+      "telephone": "9845064911",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9900080505",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "jagdish.ghr@gmail.com",
+        "formattedAddress": "BBMP KHATA NO 195A/53/11,, 687/629/53/12, BENGALURU, BANGLAORE-URB, 560098, India",
+        "id": "9261398720535",
+        "line1": "BBMP KHATA NO 195A/53/11,",
+        "line2": "687/629/53/12",
+        "postalCode": "560098",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BENGALURU",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "HANURAM FUEL STATION BHARAT PETROLEUM DEALERS",
+      "email": "jagdish.ghr@gmail.com",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.9298802,
+        "longitude": 77.5244213
+      },
+      "name": "HANURAM FUEL STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000244802",
+      "telephone": "9900080505",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9538082834",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "prajwalpunnag@gmail.com",
+        "formattedAddress": "YASHWANTHPUR SUBURB, TUMKUR HIGHWAY, BENGALURU, BANGLAORE-URB, 560022, India",
+        "id": "9339026145303",
+        "line1": "YASHWANTHPUR SUBURB",
+        "line2": "TUMKUR HIGHWAY",
+        "postalCode": "560022",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BENGALURU",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "MY MITRA FUELS BHARAT PETROLEUM DEALERS",
+      "email": "prajwalpunnag@gmail.com",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.0313415,
+        "longitude": 77.5351508
+      },
+      "name": "MY MITRA FUELS BHARAT PETROLEUM DEALERS",
+      "roId": "0000250706",
+      "telephone": "9538082834",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.76
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.84
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9901566666",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "Jagdish.ghr@gmail.com",
+        "formattedAddress": "246/13, HALAGEVADERAHALLI (V), KENGERI TALUK,, BENGALURU, BANGLAORE-URB, 560098, India",
+        "id": "9356362711063",
+        "line1": "246/13, HALAGEVADERAHALLI (V)",
+        "line2": "KENGERI TALUK,",
+        "postalCode": "560098",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BENGALURU",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "HANURAM FUEL SERVICES BHARAT PETROLEUM DEALERS",
+      "email": "Jagdish.ghr@gmail.com",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.9110027,
+        "longitude": 77.513739
+      },
+      "name": "HANURAM FUEL SERVICES BHARAT PETROLEUM DEALERS",
+      "roId": "0000252661",
+      "telephone": "9901566666",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.89
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9945196177",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "shreeraghavendrafuels@gmail.com",
+        "formattedAddress": "JAKKSANDRA VILLAGE, BEGUR HOBLI, BENGALURU, BANGLAORE-URB, 562162, India",
+        "id": "9476619468823",
+        "line1": "JAKKSANDRA VILLAGE",
+        "line2": "BEGUR HOBLI",
+        "postalCode": "562162",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BENGALURU",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "SHREE RAGHAVENDRA FUELS BHARAT PETROLEUM DEALERS",
+      "email": "shreeraghavendrafuels@gmail.com",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 12.9240842,
+        "longitude": 77.6391434
+      },
+      "name": "SHREE RAGHAVENDRA FUELS BHARAT PETROLEUM DEALERS",
+      "roId": "0000256789",
+      "telephone": "9945196177",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.76
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.84
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9845071017",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "nikhil136761@bpclretail.in",
+        "formattedAddress": "SURVEY NO. 22, SITE NO. 10, BENGALURU, BANGLAORE-URB, 560032, India",
+        "id": "9500245131287",
+        "line1": "SURVEY NO. 22",
+        "line2": "SITE NO. 10",
+        "postalCode": "560032",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BENGALURU",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "NIKHIL FILLING STATION BHARAT PETROLEUM DEALERS",
+      "email": "nikhil136761@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED"
+      ],
+      "geoPoint": {
+        "latitude": 13.0205419,
+        "longitude": 77.5841742
+      },
+      "name": "NIKHIL FILLING STATION BHARAT PETROLEUM DEALERS",
+      "roId": "0000259631",
+      "telephone": "9845071017",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.76
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.84
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "8147410555",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "bpcubbonpark@gmail.com",
+        "formattedAddress": "SY NO 41, 42, 43,, KASTURBA ROAD, BANGALORE, BANGLAORE-URB, 560001, India",
+        "id": "9731914825751",
+        "line1": "SY NO 41, 42, 43,",
+        "line2": "KASTURBA ROAD",
+        "postalCode": "560001",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "BP-CUBBON PARK BHARAT PETROLEUM DEALERS",
+      "email": "bpcubbonpark@gmail.com",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL",
+        "SPEED",
+        "SPEED 100 BS IV"
+      ],
+      "geoPoint": {
+        "latitude": 12.975928,
+        "longitude": 77.597894
+      },
+      "name": "BP-CUBBON PARK BHARAT PETROLEUM DEALERS",
+      "roId": "0000261756",
+      "telephone": "8147410555",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        },
+        {
+          "code": "SPEED",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED",
+          "price": 120.32
+        },
+        {
+          "code": "SPEED 100 BS IV",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "SPEED 100 BS IV",
+          "price": 169
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "cellphone": "9741154955",
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "email": "vinod104532@bpclretail.in",
+        "formattedAddress": "NAGAWARA MAIN ROAD, NAGAWARA MAIN ROAD, BANGALORE, BANGLAORE-URB, 560045, India",
+        "id": "9763306209303",
+        "line1": "NAGAWARA MAIN ROAD",
+        "line2": "NAGAWARA MAIN ROAD",
+        "postalCode": "560045",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "VINOD AUTO SERVICE ADHOC BHARAT PETROLEUM DEALERS",
+      "email": "vinod104532@bpclretail.in",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 13.035919,
+        "longitude": 77.62316
+      },
+      "name": "VINOD AUTO SERVICE ADHOC BHARAT PETROLEUM DEALERS",
+      "roId": "0000262357",
+      "telephone": "9741154955",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.76
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.84
+        }
+      ]
+    },
+    {
+      "address": {
+        "cardDelSameAsCorres": false,
+        "corresSameAsReg": false,
+        "country": {
+          "isocode": "IN",
+          "name": "India"
+        },
+        "defaultAddress": false,
+        "district": "BANGLAORE-URB",
+        "formattedAddress": "CA SITE NO.12, 4TH T-BLOCK, JAYANAGAR, BANGALORE, BANGLAORE-URB, 560011, India",
+        "id": "9809149427735",
+        "line1": "CA SITE NO.12, 4TH T-BLOCK",
+        "line2": "JAYANAGAR",
+        "postalCode": "560011",
+        "region": {
+          "countryIso": "IN",
+          "isocode": "IN-21",
+          "isocodeShort": "21",
+          "name": "Karnataka"
+        },
+        "shippingAddress": false,
+        "town": "BANGALORE",
+        "visibleInAddressBook": true
+      },
+      "amenities": [
+        "Automation",
+        "Pure_Sure",
+        "Air_Filling",
+        "TWO_FOUR_SEVEN"
+      ],
+      "displayName": "BP-SOUTH END CIRCLE BHARAT PETROLEUM DEALERS",
+      "fuelAvailable": [
+        "DIESEL",
+        "PETROL"
+      ],
+      "geoPoint": {
+        "latitude": 12.9268788,
+        "longitude": 77.5846405
+      },
+      "name": "BP-SOUTH END CIRCLE BHARAT PETROLEUM DEALERS",
+      "roId": "0000266344",
+      "telephone": "7388372220",
+      "weekDayFuelPriceList": [
+        {
+          "code": "DIESEL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "DIESEL",
+          "price": 98.79
+        },
+        {
+          "code": "PETROL",
+          "date": "2026-07-14T00:30:00+0000",
+          "displayName": "PETROL",
+          "price": 110.93
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "statusCode": 200
+}

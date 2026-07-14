@@ -8,6 +8,10 @@
     "build": "tsc",
     "start": "node dist/server.js",
     "scrape": "ts-node src/scraper/run.ts",
+    "scrape-hpcl": "ts-node src/hpcl/scraper/run.ts",
+    "scrape-shell": "ts-node src/shell/scraper/run.ts",
+    "scrape-bpcl": "ts-node src/bpcl/scraper/run.ts",
+    "scrape-iocl-xp95": "ts-node src/scraper/runXp95.ts",
     "lint": "eslint 'src/**/*.ts'",
     "format": "prettier --write 'src/**/*.ts'"
   },
