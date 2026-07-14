@@ -29,3 +29,43 @@ export interface NearbyStationResponse {
   distance: number;
   googleMapsUrl: string;
 }
+
+export interface IOCLXP95Station {
+  brand: string;
+  fuelType: string;
+  roCode: string;
+  stationName: string;
+  address: string | null;
+  city: string;
+  state: string;
+  phone: string | null;
+  latitude: number;
+  longitude: number;
+  openingHours: string | null;
+  stationUrl: string;
+  googleMapsUrl: string;
+  xp95Price: number;
+  petrolPrice: number | null;
+  dieselPrice: number | null;
+  lastUpdated: string;
+  stateOffice: string | null;
+  divisionalOffice: string | null;
+  salesArea: string | null;
+}
+
+export interface IOCLXP95NearbyStationResponse {
+  brand: string;
+  fuelType: string;
+  stationName: string;
+  roCode: string;
+  city: string;
+  state: string;
+  latitude: number;
+  longitude: number;
+  distance: number;
+  xp95Price: number;
+  petrolPrice: number | null;
+  dieselPrice: number | null;
+  stationUrl: string;
+  googleMapsUrl: string;
+}
