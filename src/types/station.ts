@@ -8,6 +8,10 @@ export interface Station {
   latitude: number;
   longitude: number;
   googleMapsUrl: string;
+  petrolPrice?: number | null;
+  dieselPrice?: number | null;
+  xp95Price?: number | null;
+  xp100Price?: number | null;
 }
 
 export interface ScraperStats {
@@ -47,6 +51,7 @@ export interface IOCLXP95Station {
   xp95Price: number;
   petrolPrice: number | null;
   dieselPrice: number | null;
+  xp100Price: number | null;
   lastUpdated: string;
   stateOffice: string | null;
   divisionalOffice: string | null;
@@ -66,6 +71,7 @@ export interface IOCLXP95NearbyStationResponse {
   xp95Price: number;
   petrolPrice: number | null;
   dieselPrice: number | null;
+  xp100Price: number | null;
   stationUrl: string;
   googleMapsUrl: string;
 }

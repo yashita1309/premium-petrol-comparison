@@ -8,7 +8,11 @@
     "city": "DEOGHAR",
     "latitude": 24.52778,
     "longitude": 86.624739,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=24.52778,86.624739"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=24.52778,86.624739",
+    "petrolPrice": 104.95,
+    "dieselPrice": 100.15,
+    "xp95Price": 113.85,
+    "xp100Price": 167.35
   },
   {
     "roCode": "190925",
@@ -19,7 +23,11 @@
     "city": "MUZZAFARPUR",
     "latitude": 26.130451,
     "longitude": 85.387902,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.130451,85.387902"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.130451,85.387902",
+    "petrolPrice": 114.07,
+    "dieselPrice": 100.02,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "284183",
@@ -30,7 +38,11 @@
     "city": "BHAGWANPUR",
     "latitude": 26.11613161,
     "longitude": 85.36039288,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.11613161,85.36039288"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.11613161,85.36039288",
+    "petrolPrice": 114.1,
+    "dieselPrice": 100.05,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "317678",
@@ -41,7 +53,11 @@
     "city": "PATNA",
     "latitude": 25.60691067,
     "longitude": 85.04278898,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.60691067,85.04278898"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.60691067,85.04278898",
+    "petrolPrice": 113.37,
+    "dieselPrice": 99.36,
+    "xp95Price": 122.25,
+    "xp100Price": 167.35
   },
   {
     "roCode": "250179",
@@ -52,7 +68,11 @@
     "city": "SUKULPIPRA",
     "latitude": 25.188917,
     "longitude": 83.700592,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.188917,83.700592"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.188917,83.700592",
+    "petrolPrice": 114.83,
+    "dieselPrice": 100.76,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "169241",
@@ -63,7 +83,11 @@
     "city": "JAMSHEDPUR",
     "latitude": 22.81766706,
     "longitude": 86.18397325,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.81766706,86.18397325"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.81766706,86.18397325",
+    "petrolPrice": 105.19,
+    "dieselPrice": 100.42,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "102073",
@@ -74,7 +98,11 @@
     "city": "NEW DELHI",
     "latitude": 28.57766667,
     "longitude": 77.1749,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.57766667,77.1749"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.57766667,77.1749",
+    "petrolPrice": 102.12,
+    "dieselPrice": 95.2,
+    "xp95Price": 109.24,
+    "xp100Price": 167.35
   },
   {
     "roCode": "106272",
@@ -85,7 +113,11 @@
     "city": "NEW DELHI",
     "latitude": 28.542792,
     "longitude": 77.220541,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.542792,77.220541"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.542792,77.220541",
+    "petrolPrice": 102.12,
+    "dieselPrice": 95.2,
+    "xp95Price": 109.24,
+    "xp100Price": 167.35
   },
   {
     "roCode": "106321",
@@ -96,7 +128,11 @@
     "city": "NEW DELHI",
     "latitude": 28.53461667,
     "longitude": 77.19628333,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.53461667,77.19628333"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.53461667,77.19628333",
+    "petrolPrice": 102.12,
+    "dieselPrice": 95.2,
+    "xp95Price": 109.24,
+    "xp100Price": 167.35
   },
   {
     "roCode": "186846",
@@ -107,7 +143,11 @@
     "city": "NEW DELHI",
     "latitude": 28.57078333,
     "longitude": 77.16345,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.57078333,77.16345"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.57078333,77.16345",
+    "petrolPrice": 102.12,
+    "dieselPrice": 95.2,
+    "xp95Price": 109.24,
+    "xp100Price": 167.35
   },
   {
     "roCode": "186866",
@@ -118,7 +158,11 @@
     "city": "NEW DELHI",
     "latitude": 28.50426667,
     "longitude": 77.17168333,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.50426667,77.17168333"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.50426667,77.17168333",
+    "petrolPrice": 102.12,
+    "dieselPrice": 95.2,
+    "xp95Price": 109.24,
+    "xp100Price": 167.35
   },
   {
     "roCode": "312687",
@@ -129,7 +173,11 @@
     "city": "NEW DELHI",
     "latitude": 28.599991,
     "longitude": 77.196205,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.599991,77.196205"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.599991,77.196205",
+    "petrolPrice": 102.12,
+    "dieselPrice": 95.2,
+    "xp95Price": 109.24,
+    "xp100Price": 0
   },
   {
     "roCode": "368600",
@@ -140,7 +188,11 @@
     "city": "NEW DELHI",
     "latitude": 28.54823791,
     "longitude": 77.22838828,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.54823791,77.22838828"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.54823791,77.22838828",
+    "petrolPrice": 102.12,
+    "dieselPrice": 95.2,
+    "xp95Price": 109.24,
+    "xp100Price": 0
   },
   {
     "roCode": "102078",
@@ -151,7 +203,11 @@
     "city": "NEW DELHI",
     "latitude": 28.60446667,
     "longitude": 77.32305,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.60446667,77.32305"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.60446667,77.32305",
+    "petrolPrice": 102.12,
+    "dieselPrice": 95.2,
+    "xp95Price": 109.24,
+    "xp100Price": 167.35
   },
   {
     "roCode": "186841",
@@ -162,7 +218,11 @@
     "city": "NEW DELHI",
     "latitude": 28.52796667,
     "longitude": 77.21588333,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.52796667,77.21588333"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.52796667,77.21588333",
+    "petrolPrice": 102.12,
+    "dieselPrice": 95.2,
+    "xp95Price": 109.24,
+    "xp100Price": 167.35
   },
   {
     "roCode": "153271",
@@ -173,7 +233,11 @@
     "city": "NEW DELHI",
     "latitude": 28.587063,
     "longitude": 77.241387,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.587063,77.241387"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.587063,77.241387",
+    "petrolPrice": 102.12,
+    "dieselPrice": 95.2,
+    "xp95Price": 109.24,
+    "xp100Price": 0
   },
   {
     "roCode": "102082",
@@ -184,7 +248,11 @@
     "city": "GURGAON",
     "latitude": 28.482043,
     "longitude": 77.108491,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.482043,77.108491"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.482043,77.108491",
+    "petrolPrice": 102.97,
+    "dieselPrice": 95.64,
+    "xp95Price": 111.78,
+    "xp100Price": 167.35
   },
   {
     "roCode": "242791",
@@ -195,7 +263,11 @@
     "city": "GURGAON",
     "latitude": 28.408913,
     "longitude": 77.0664,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.408913,77.0664"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.408913,77.0664",
+    "petrolPrice": 102.97,
+    "dieselPrice": 95.64,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "354840",
@@ -206,7 +278,11 @@
     "city": "Delhi Mumbai Expressway",
     "latitude": 27.7908,
     "longitude": 77.0102,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=27.7908,77.0102"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=27.7908,77.0102",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "377286",
@@ -217,7 +293,11 @@
     "city": "Delhi Mumbai Expressway",
     "latitude": 28.0354443,
     "longitude": 77.1193473,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.0354443,77.1193473"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.0354443,77.1193473",
+    "petrolPrice": 103.79,
+    "dieselPrice": 96.44,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "142662",
@@ -228,7 +308,11 @@
     "city": "HISSAR",
     "latitude": 29.132483,
     "longitude": 75.757018,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=29.132483,75.757018"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=29.132483,75.757018",
+    "petrolPrice": 103.53,
+    "dieselPrice": 96.17,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "102049",
@@ -239,7 +323,11 @@
     "city": "AMBALA",
     "latitude": 30.370792,
     "longitude": 76.798162,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.370792,76.798162"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.370792,76.798162",
+    "petrolPrice": 103.26,
+    "dieselPrice": 95.9,
+    "xp95Price": 112.07,
+    "xp100Price": 167.35
   },
   {
     "roCode": "102224",
@@ -250,7 +338,11 @@
     "city": "PIPLI",
     "latitude": 29.975137,
     "longitude": 76.893268,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=29.975137,76.893268"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=29.975137,76.893268",
+    "petrolPrice": 102.8,
+    "dieselPrice": 95.45,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "187039",
@@ -261,7 +353,11 @@
     "city": "PANIPAT",
     "latitude": 29.376517,
     "longitude": 76.974723,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=29.376517,76.974723"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=29.376517,76.974723",
+    "petrolPrice": 102.25,
+    "dieselPrice": 94.92,
+    "xp95Price": 111.06,
+    "xp100Price": 167.35
   },
   {
     "roCode": "186989",
@@ -272,7 +368,11 @@
     "city": "SONEPAT",
     "latitude": 29.158795,
     "longitude": 76.669982,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=29.158795,76.669982"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=29.158795,76.669982",
+    "petrolPrice": 102.68,
+    "dieselPrice": 95.33,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "104664",
@@ -283,7 +383,11 @@
     "city": "SONEPAT",
     "latitude": 28.890263,
     "longitude": 77.11605,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.890263,77.11605"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.890263,77.11605",
+    "petrolPrice": 102.82,
+    "dieselPrice": 95.47,
+    "xp95Price": 111.63,
+    "xp100Price": 167.35
   },
   {
     "roCode": "252837",
@@ -294,7 +398,11 @@
     "city": "PANCHKULA",
     "latitude": 30.700192,
     "longitude": 76.850319,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.700192,76.850319"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.700192,76.850319",
+    "petrolPrice": 103.61,
+    "dieselPrice": 96.24,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "112263",
@@ -305,7 +413,11 @@
     "city": "AHMEDABAD",
     "latitude": 23.0258,
     "longitude": 72.5568,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.0258,72.5568"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.0258,72.5568",
+    "petrolPrice": 101.83,
+    "dieselPrice": 97.92,
+    "xp95Price": 110.37,
+    "xp100Price": 167.35
   },
   {
     "roCode": "112338",
@@ -316,7 +428,11 @@
     "city": "AHMEDABAD",
     "latitude": 23.024,
     "longitude": 72.549,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.024,72.549"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.024,72.549",
+    "petrolPrice": 101.81,
+    "dieselPrice": 97.92,
+    "xp95Price": 110.37,
+    "xp100Price": 167.35
   },
   {
     "roCode": "152100",
@@ -327,7 +443,11 @@
     "city": "AHMEDABAD",
     "latitude": 23.0269,
     "longitude": 72.5261,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.0269,72.5261"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.0269,72.5261",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "191936",
@@ -338,7 +458,11 @@
     "city": "AHMEDABAD",
     "latitude": 23.0681,
     "longitude": 72.5616,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.0681,72.5616"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.0681,72.5616",
+    "petrolPrice": 101.83,
+    "dieselPrice": 97.92,
+    "xp95Price": 110.37,
+    "xp100Price": 167.35
   },
   {
     "roCode": "356099",
@@ -349,7 +473,11 @@
     "city": "VEJALPUR",
     "latitude": 23.01300729,
     "longitude": 72.52384456,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.01300729,72.52384456"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.01300729,72.52384456",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "136311",
@@ -360,7 +488,11 @@
     "city": "AHMEDABAD",
     "latitude": 23.0412,
     "longitude": 72.5187,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.0412,72.5187"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.0412,72.5187",
+    "petrolPrice": 101.83,
+    "dieselPrice": 97.92,
+    "xp95Price": 110.37,
+    "xp100Price": 167.35
   },
   {
     "roCode": "332592",
@@ -371,7 +503,11 @@
     "city": "RAJKOT",
     "latitude": 22.277594,
     "longitude": 70.785558,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.277594,70.785558"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.277594,70.785558",
+    "petrolPrice": 101.59,
+    "dieselPrice": 97.72,
+    "xp95Price": 110.15,
+    "xp100Price": null
   },
   {
     "roCode": "364332",
@@ -382,7 +518,11 @@
     "city": "VADODARA CITY",
     "latitude": 22.295077,
     "longitude": 73.157546,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.295077,73.157546"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.295077,73.157546",
+    "petrolPrice": 101.46,
+    "dieselPrice": 97.57,
+    "xp95Price": 110.02,
+    "xp100Price": 167.35
   },
   {
     "roCode": "159571",
@@ -393,7 +533,11 @@
     "city": "GUWAHATI",
     "latitude": 26.18158,
     "longitude": 91.803348,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.18158,91.803348"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.18158,91.803348",
+    "petrolPrice": 105.73,
+    "dieselPrice": 97.23,
+    "xp95Price": 114.68,
+    "xp100Price": 167.35
   },
   {
     "roCode": "160360",
@@ -404,7 +548,11 @@
     "city": "BURNIHAT",
     "latitude": 26.045069,
     "longitude": 91.868116,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.045069,91.868116"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.045069,91.868116",
+    "petrolPrice": 100.69,
+    "dieselPrice": 92.48,
+    "xp95Price": 108.16,
+    "xp100Price": 167.35
   },
   {
     "roCode": "160757",
@@ -415,7 +563,11 @@
     "city": "IMPHAL",
     "latitude": 24.780313,
     "longitude": 93.91363,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=24.780313,93.91363"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=24.780313,93.91363",
+    "petrolPrice": 106.82,
+    "dieselPrice": 92.53,
+    "xp95Price": 113.74,
+    "xp100Price": 167.35
   },
   {
     "roCode": "159850",
@@ -426,7 +578,11 @@
     "city": "AGARTALA",
     "latitude": 23.845608,
     "longitude": 91.28252,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.845608,91.28252"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.845608,91.28252",
+    "petrolPrice": 104.96,
+    "dieselPrice": 93.85,
+    "xp95Price": 115.33,
+    "xp100Price": 167.35
   },
   {
     "roCode": "216293",
@@ -437,7 +593,11 @@
     "city": "AIZAWL",
     "latitude": 23.744973,
     "longitude": 92.724178,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.744973,92.724178"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.744973,92.724178",
+    "petrolPrice": 106.31,
+    "dieselPrice": 94.95,
+    "xp95Price": 114.95,
+    "xp100Price": 167.35
   },
   {
     "roCode": "159995",
@@ -448,7 +608,11 @@
     "city": "MORANHAT",
     "latitude": 27.187458,
     "longitude": 94.914969,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=27.187458,94.914969"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=27.187458,94.914969",
+    "petrolPrice": 106.9,
+    "dieselPrice": 98.31,
+    "xp95Price": 115.85,
+    "xp100Price": 167.35
   },
   {
     "roCode": "193643",
@@ -459,7 +623,11 @@
     "city": "GUWAHATI",
     "latitude": 27.491573,
     "longitude": 94.926903,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=27.491573,94.926903"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=27.491573,94.926903",
+    "petrolPrice": 106.62,
+    "dieselPrice": 98.04,
+    "xp95Price": 115.57,
+    "xp100Price": 167.35
   },
   {
     "roCode": "249921",
@@ -470,7 +638,11 @@
     "city": "KOHIMA",
     "latitude": 25.66639,
     "longitude": 94.088313,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.66639,94.088313"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.66639,94.088313",
+    "petrolPrice": 104.87,
+    "dieselPrice": 96.16,
+    "xp95Price": 111.06,
+    "xp100Price": 167.35
   },
   {
     "roCode": "368818",
@@ -481,7 +653,11 @@
     "city": "PASIGHAT",
     "latitude": 28.057822,
     "longitude": 95.331652,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.057822,95.331652"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.057822,95.331652",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "163187",
@@ -492,7 +668,11 @@
     "city": "DULIAJAN",
     "latitude": 27.348643,
     "longitude": 95.317183,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=27.348643,95.317183"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=27.348643,95.317183",
+    "petrolPrice": 106.17,
+    "dieselPrice": 97.65,
+    "xp95Price": 115.12,
+    "xp100Price": 167.35
   },
   {
     "roCode": "118279",
@@ -503,7 +683,11 @@
     "city": "BANGALROE",
     "latitude": 12.9472,
     "longitude": 77.5337,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.9472,77.5337"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.9472,77.5337",
+    "petrolPrice": 110.93,
+    "dieselPrice": 98.8,
+    "xp95Price": 120.37,
+    "xp100Price": 167.35
   },
   {
     "roCode": "118335",
@@ -514,7 +698,11 @@
     "city": "BANGALORE",
     "latitude": 12.990786,
     "longitude": 77.571836,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.990786,77.571836"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.990786,77.571836",
+    "petrolPrice": 110.93,
+    "dieselPrice": 98.8,
+    "xp95Price": 120.37,
+    "xp100Price": 167.35
   },
   {
     "roCode": "118369",
@@ -525,7 +713,11 @@
     "city": "BANGALORE",
     "latitude": 12.92146,
     "longitude": 77.64493,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.92146,77.64493"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.92146,77.64493",
+    "petrolPrice": 110.93,
+    "dieselPrice": 98.8,
+    "xp95Price": 120.37,
+    "xp100Price": 167.35
   },
   {
     "roCode": "295999",
@@ -536,7 +728,11 @@
     "city": "BANGALORE",
     "latitude": 12.86026,
     "longitude": 77.59014,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.86026,77.59014"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.86026,77.59014",
+    "petrolPrice": 110.93,
+    "dieselPrice": 98.8,
+    "xp95Price": 120.37,
+    "xp100Price": 167.35
   },
   {
     "roCode": "368244",
@@ -547,7 +743,11 @@
     "city": "BANGALROE",
     "latitude": 12.939611,
     "longitude": 77.625347,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.939611,77.625347"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.939611,77.625347",
+    "petrolPrice": 110.93,
+    "dieselPrice": 98.8,
+    "xp95Price": 120.37,
+    "xp100Price": 167.35
   },
   {
     "roCode": "118227",
@@ -558,7 +758,11 @@
     "city": "BANGALORE",
     "latitude": 12.975124,
     "longitude": 77.6016,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.975124,77.6016"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.975124,77.6016",
+    "petrolPrice": 110.93,
+    "dieselPrice": 98.8,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "361850",
@@ -569,7 +773,11 @@
     "city": "BANGALROE",
     "latitude": 12.998925,
     "longitude": 77.68797,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.998925,77.68797"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.998925,77.68797",
+    "petrolPrice": 110.93,
+    "dieselPrice": 98.81,
+    "xp95Price": 120.38,
+    "xp100Price": 167.35
   },
   {
     "roCode": "329828",
@@ -580,7 +788,11 @@
     "city": "MUNDRAGI",
     "latitude": 15.105567,
     "longitude": 76.898421,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=15.105567,76.898421"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=15.105567,76.898421",
+    "petrolPrice": 112.02,
+    "dieselPrice": 100,
+    "xp95Price": 121.5,
+    "xp100Price": 167.35
   },
   {
     "roCode": "118159",
@@ -591,7 +803,11 @@
     "city": "MARIAMMANAHALLI",
     "latitude": 15.163937,
     "longitude": 76.365763,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=15.163937,76.365763"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=15.163937,76.365763",
+    "petrolPrice": 112.06,
+    "dieselPrice": 100.04,
+    "xp95Price": 121.54,
+    "xp100Price": 167.35
   },
   {
     "roCode": "125286",
@@ -602,7 +818,11 @@
     "city": "MANGALORE",
     "latitude": 12.88440639,
     "longitude": 74.83412278,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.88440639,74.83412278"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.88440639,74.83412278",
+    "petrolPrice": 110.06,
+    "dieselPrice": 98,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "117862",
@@ -613,7 +833,11 @@
     "city": "MANGALORE",
     "latitude": 12.94275446,
     "longitude": 74.81469004,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.94275446,74.81469004"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.94275446,74.81469004",
+    "petrolPrice": 110.06,
+    "dieselPrice": 98,
+    "xp95Price": 119.54,
+    "xp100Price": 167.35
   },
   {
     "roCode": "117897",
@@ -624,7 +848,11 @@
     "city": "MANGALORE",
     "latitude": 12.87259944,
     "longitude": 74.88733472,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.87259944,74.88733472"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.87259944,74.88733472",
+    "petrolPrice": 110.06,
+    "dieselPrice": 98,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "137439",
@@ -635,7 +863,11 @@
     "city": "MANGALORE",
     "latitude": 12.81898028,
     "longitude": 74.87822083,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.81898028,74.87822083"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.81898028,74.87822083",
+    "petrolPrice": 110.06,
+    "dieselPrice": 98,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "365193",
@@ -646,7 +878,11 @@
     "city": "BIDADI",
     "latitude": 12.8160605,
     "longitude": 77.4087463,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8160605,77.4087463"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.8160605,77.4087463",
+    "petrolPrice": 111.01,
+    "dieselPrice": 98.92,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "197927",
@@ -657,7 +893,11 @@
     "city": "MYSORE",
     "latitude": 12.35365361,
     "longitude": 76.61714194,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.35365361,76.61714194"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.35365361,76.61714194",
+    "petrolPrice": 110.44,
+    "dieselPrice": 98.39,
+    "xp95Price": 119.92,
+    "xp100Price": 167.35
   },
   {
     "roCode": "118064",
@@ -668,7 +908,11 @@
     "city": "MYSORE",
     "latitude": 12.28294306,
     "longitude": 76.64178417,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.28294306,76.64178417"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.28294306,76.64178417",
+    "petrolPrice": 110.44,
+    "dieselPrice": 98.39,
+    "xp95Price": 119.92,
+    "xp100Price": 167.35
   },
   {
     "roCode": "353648",
@@ -679,7 +923,11 @@
     "city": "MYSORE",
     "latitude": 12.26200306,
     "longitude": 76.65654556,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.26200306,76.65654556"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.26200306,76.65654556",
+    "petrolPrice": 110.44,
+    "dieselPrice": 98.39,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "362291",
@@ -690,7 +938,11 @@
     "city": "KOCHI",
     "latitude": 9.9682007,
     "longitude": 76.3129211,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=9.9682007,76.3129211"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=9.9682007,76.3129211",
+    "petrolPrice": 113.5,
+    "dieselPrice": 102.42,
+    "xp95Price": 122.83,
+    "xp100Price": 167.35
   },
   {
     "roCode": "364034",
@@ -701,7 +953,11 @@
     "city": "THRISSUR",
     "latitude": 10.2459592,
     "longitude": 76.3701401,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=10.2459592,76.3701401"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=10.2459592,76.3701401",
+    "petrolPrice": 113.78,
+    "dieselPrice": 102.68,
+    "xp95Price": 123.11,
+    "xp100Price": 167.35
   },
   {
     "roCode": "187851",
@@ -712,7 +968,11 @@
     "city": "THRISSUR",
     "latitude": 10.539781,
     "longitude": 76.191948,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=10.539781,76.191948"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=10.539781,76.191948",
+    "petrolPrice": 114.19,
+    "dieselPrice": 103.08,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "125002",
@@ -723,7 +983,11 @@
     "city": "KOZHIKODE",
     "latitude": 11.261331,
     "longitude": 75.793906,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.261331,75.793906"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.261331,75.793906",
+    "petrolPrice": 113.79,
+    "dieselPrice": 102.71,
+    "xp95Price": 123.12,
+    "xp100Price": 167.35
   },
   {
     "roCode": "166573",
@@ -734,7 +998,11 @@
     "city": "KOZHIKODE",
     "latitude": 11.233605,
     "longitude": 75.803124,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.233605,75.803124"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.233605,75.803124",
+    "petrolPrice": 113.79,
+    "dieselPrice": 102.71,
+    "xp95Price": 123.12,
+    "xp100Price": 167.35
   },
   {
     "roCode": "172169",
@@ -745,7 +1013,11 @@
     "city": "RAMANATTUKARA",
     "latitude": 11.190184,
     "longitude": 75.869271,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.190184,75.869271"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.190184,75.869271",
+    "petrolPrice": 113.93,
+    "dieselPrice": 102.86,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "353981",
@@ -756,7 +1028,11 @@
     "city": "ANAYARA",
     "latitude": 8.5130665,
     "longitude": 76.9003384,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=8.5130665,76.9003384"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=8.5130665,76.9003384",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "335532",
@@ -767,7 +1043,11 @@
     "city": "BHOPAL",
     "latitude": 23.182436,
     "longitude": 77.432748,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.182436,77.432748"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=23.182436,77.432748",
+    "petrolPrice": 114.54,
+    "dieselPrice": 99.64,
+    "xp95Price": null,
+    "xp100Price": 167.35
   },
   {
     "roCode": "170356",
@@ -778,7 +1058,11 @@
     "city": "INDORE",
     "latitude": 22.7055,
     "longitude": 75.8712,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.7055,75.8712"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.7055,75.8712",
+    "petrolPrice": 114.61,
+    "dieselPrice": 99.7,
+    "xp95Price": 123.92,
+    "xp100Price": 167.35
   },
   {
     "roCode": "252300",
@@ -789,7 +1073,11 @@
     "city": "BILASPUR",
     "latitude": 22.0836,
     "longitude": 82.1496,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.0836,82.1496"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.0836,82.1496",
+    "petrolPrice": 108.76,
+    "dieselPrice": 102.02,
+    "xp95Price": 117.6,
+    "xp100Price": 167.35
   },
   {
     "roCode": "169766",
@@ -800,7 +1088,11 @@
     "city": "RAIPUR",
     "latitude": 21.2414,
     "longitude": 81.6578,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=21.2414,81.6578"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=21.2414,81.6578",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "125676",
@@ -811,7 +1103,11 @@
     "city": "GOA",
     "latitude": 15.495227,
     "longitude": 73.83914,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=15.495227,73.83914"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=15.495227,73.83914",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "234963",
@@ -822,7 +1118,11 @@
     "city": "KOLHAPUR",
     "latitude": 16.762478,
     "longitude": 74.445015,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=16.762478,74.445015"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=16.762478,74.445015",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "383956",
@@ -833,7 +1133,11 @@
     "city": "GOA",
     "latitude": 15.3746133,
     "longitude": 73.92582425,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=15.3746133,73.92582425"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=15.3746133,73.92582425",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "125838",
@@ -844,7 +1148,11 @@
     "city": "MUMBAI",
     "latitude": 18.992264,
     "longitude": 72.814397,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.992264,72.814397"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.992264,72.814397",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "370551",
@@ -855,7 +1163,11 @@
     "city": "MUMBAI",
     "latitude": 18.9655774,
     "longitude": 72.8033542,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.9655774,72.8033542"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.9655774,72.8033542",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "125744",
@@ -866,7 +1178,11 @@
     "city": "MUMBAI",
     "latitude": 19.103864,
     "longitude": 72.826903,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=19.103864,72.826903"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=19.103864,72.826903",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "125781",
@@ -877,7 +1193,11 @@
     "city": "MUMBAI",
     "latitude": 19.102837,
     "longitude": 72.873855,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=19.102837,72.873855"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=19.102837,72.873855",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "356194",
@@ -888,7 +1208,11 @@
     "city": "MUMBAI",
     "latitude": 19.060246,
     "longitude": 72.864471,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=19.060246,72.864471"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=19.060246,72.864471",
+    "petrolPrice": 111.21,
+    "dieselPrice": 97.83,
+    "xp95Price": 120.21,
+    "xp100Price": 167.35
   },
   {
     "roCode": "223910",
@@ -899,7 +1223,11 @@
     "city": "RAIGAD",
     "latitude": 18.790611,
     "longitude": 73.299609,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.790611,73.299609"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.790611,73.299609",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "370352",
@@ -910,7 +1238,11 @@
     "city": "NAGPUR",
     "latitude": 21.1523076,
     "longitude": 79.0812878,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=21.1523076,79.0812878"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=21.1523076,79.0812878",
+    "petrolPrice": 111.72,
+    "dieselPrice": 98.38,
+    "xp95Price": 120.73,
+    "xp100Price": 167.35
   },
   {
     "roCode": "508963",
@@ -921,7 +1253,11 @@
     "city": "NAGPUR",
     "latitude": 21.106997,
     "longitude": 79.08121,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=21.106997,79.08121"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=21.106997,79.08121",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "126297",
@@ -932,7 +1268,11 @@
     "city": "PUNE",
     "latitude": 18.506661,
     "longitude": 73.897857,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.506661,73.897857"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.506661,73.897857",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "181638",
@@ -943,7 +1283,11 @@
     "city": "PUNE",
     "latitude": 18.592458,
     "longitude": 73.76093,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.592458,73.76093"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.592458,73.76093",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "336616",
@@ -954,7 +1298,11 @@
     "city": "PUNE",
     "latitude": 18.630017,
     "longitude": 73.742951,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.630017,73.742951"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=18.630017,73.742951",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "124571",
@@ -965,7 +1313,11 @@
     "city": "BHUBANESWAR",
     "latitude": 20.28587833,
     "longitude": 85.81006167,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=20.28587833,85.81006167"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=20.28587833,85.81006167",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "364194",
@@ -976,7 +1328,11 @@
     "city": "AMRITSAR",
     "latitude": 31.673625,
     "longitude": 74.839251,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=31.673625,74.839251"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=31.673625,74.839251",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "357516",
@@ -987,7 +1343,11 @@
     "city": "CHANDIGARH",
     "latitude": 30.717258,
     "longitude": 76.77552,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.717258,76.77552"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.717258,76.77552",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "373196",
@@ -998,7 +1358,11 @@
     "city": "CHANDIGARH",
     "latitude": 30.7313,
     "longitude": 76.8365,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.7313,76.8365"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.7313,76.8365",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "369465",
@@ -1009,7 +1373,11 @@
     "city": "CHANDIGARH",
     "latitude": 30.73638,
     "longitude": 76.71605,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.73638,76.71605"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.73638,76.71605",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "382336",
@@ -1020,7 +1388,11 @@
     "city": "CHANDIGARH",
     "latitude": 30.63863,
     "longitude": 76.75667,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.63863,76.75667"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=30.63863,76.75667",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "123714",
@@ -1031,7 +1403,11 @@
     "city": "AJMER",
     "latitude": 26.490885,
     "longitude": 74.621087,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.490885,74.621087"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.490885,74.621087",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "123483",
@@ -1042,7 +1418,11 @@
     "city": "KOTA",
     "latitude": 25.169092,
     "longitude": 75.852066,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.169092,75.852066"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.169092,75.852066",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "123658",
@@ -1053,7 +1433,11 @@
     "city": "JAIPUR",
     "latitude": 26.860006,
     "longitude": 75.756073,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.860006,75.756073"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.860006,75.756073",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "186729",
@@ -1064,7 +1448,11 @@
     "city": "JAIPUR",
     "latitude": 26.879896,
     "longitude": 75.758106,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.879896,75.758106"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.879896,75.758106",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "131251",
@@ -1075,7 +1463,11 @@
     "city": "BIKANER",
     "latitude": 28.020191,
     "longitude": 73.372914,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.020191,73.372914"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.020191,73.372914",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "123220",
@@ -1086,7 +1478,11 @@
     "city": "BIKANER",
     "latitude": 28.01172,
     "longitude": 73.322295,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.01172,73.322295"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.01172,73.322295",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "360089",
@@ -1097,7 +1493,11 @@
     "city": "JODHPUR",
     "latitude": 26.264718,
     "longitude": 72.9620863,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.264718,72.9620863"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.264718,72.9620863",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "366586",
@@ -1108,7 +1508,11 @@
     "city": "JODHPUR",
     "latitude": 26.244442,
     "longitude": 73.01129507,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.244442,73.01129507"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.244442,73.01129507",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "282485",
@@ -1119,7 +1523,11 @@
     "city": "HYDERABAD",
     "latitude": 17.416959,
     "longitude": 78.41042,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.416959,78.41042"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.416959,78.41042",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "357488",
@@ -1130,7 +1538,11 @@
     "city": "HYDERABAD",
     "latitude": 17.43625356,
     "longitude": 78.37474111,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.43625356,78.37474111"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.43625356,78.37474111",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "369718",
@@ -1141,7 +1553,11 @@
     "city": "HYDERABAD",
     "latitude": 17.427,
     "longitude": 78.4413,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.427,78.4413"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.427,78.4413",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "373721",
@@ -1152,7 +1568,11 @@
     "city": "HYDERABAD",
     "latitude": 17.4381,
     "longitude": 78.3996,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.4381,78.3996"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.4381,78.3996",
+    "petrolPrice": 115.69,
+    "dieselPrice": 103.82,
+    "xp95Price": 125.17,
+    "xp100Price": 167.35
   },
   {
     "roCode": "380273",
@@ -1163,7 +1583,11 @@
     "city": "HYDERABAD",
     "latitude": 17.444098,
     "longitude": 78.376954,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.444098,78.376954"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.444098,78.376954",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "384043",
@@ -1174,7 +1598,11 @@
     "city": "HYDERABAD",
     "latitude": 17.44492,
     "longitude": 78.46709,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.44492,78.46709"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.44492,78.46709",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "365545",
@@ -1185,7 +1613,11 @@
     "city": "KAPRA",
     "latitude": 17.47678349,
     "longitude": 78.56563369,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.47678349,78.56563369"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.47678349,78.56563369",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "127492",
@@ -1196,7 +1628,11 @@
     "city": "VIJAYAWADA",
     "latitude": 16.51113,
     "longitude": 80.732238,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=16.51113,80.732238"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=16.51113,80.732238",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "127657",
@@ -1207,7 +1643,11 @@
     "city": "VIJAYAWADA",
     "latitude": 16.581285,
     "longitude": 80.526448,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=16.581285,80.526448"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=16.581285,80.526448",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "379694",
@@ -1218,7 +1658,11 @@
     "city": "VISAKHAPATNAM",
     "latitude": 17.743019,
     "longitude": 83.344105,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.743019,83.344105"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=17.743019,83.344105",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "188206",
@@ -1229,7 +1673,11 @@
     "city": "KELAMBAKKAM, KANCHIPURAM",
     "latitude": 12.783521,
     "longitude": 80.219124,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.783521,80.219124"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.783521,80.219124",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "174453",
@@ -1240,7 +1688,11 @@
     "city": "CHENNAI",
     "latitude": 12.909636,
     "longitude": 80.250283,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.909636,80.250283"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.909636,80.250283",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "133649",
@@ -1251,7 +1703,11 @@
     "city": "CHENNAI",
     "latitude": 13.044472,
     "longitude": 80.263243,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=13.044472,80.263243"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=13.044472,80.263243",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "133732",
@@ -1262,7 +1718,11 @@
     "city": "SRI PERAMBUDUR",
     "latitude": 12.967784,
     "longitude": 79.953116,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.967784,79.953116"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.967784,79.953116",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "133597",
@@ -1273,7 +1733,11 @@
     "city": "CHENNAI",
     "latitude": 12.85626,
     "longitude": 80.070242,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.85626,80.070242"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.85626,80.070242",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "133635",
@@ -1284,7 +1748,11 @@
     "city": "CHENNAI",
     "latitude": 12.993477,
     "longitude": 80.185111,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.993477,80.185111"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.993477,80.185111",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "368177",
@@ -1295,7 +1763,11 @@
     "city": "MM NAGAR",
     "latitude": 12.76961821,
     "longitude": 80.00782475,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.76961821,80.00782475"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.76961821,80.00782475",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "133670",
@@ -1306,7 +1778,11 @@
     "city": "CHENNAI",
     "latitude": 13.021001,
     "longitude": 80.225194,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=13.021001,80.225194"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=13.021001,80.225194",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "134046",
@@ -1317,7 +1793,11 @@
     "city": "COIMBATORE",
     "latitude": 11.027791,
     "longitude": 76.951574,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.027791,76.951574"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.027791,76.951574",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "134072",
@@ -1328,7 +1808,11 @@
     "city": "OOTY",
     "latitude": 11.410467,
     "longitude": 76.711571,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.410467,76.711571"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.410467,76.711571",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "135338",
@@ -1339,7 +1823,11 @@
     "city": "COIMBATORE",
     "latitude": 11.00632,
     "longitude": 76.975523,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.00632,76.975523"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.00632,76.975523",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "135329",
@@ -1350,7 +1838,11 @@
     "city": "PERUNDURAI",
     "latitude": 11.312506,
     "longitude": 77.611631,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.312506,77.611631"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.312506,77.611631",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "212631",
@@ -1361,7 +1853,11 @@
     "city": "TIRUPUR",
     "latitude": 11.125996,
     "longitude": 77.329278,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.125996,77.329278"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.125996,77.329278",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "188226",
@@ -1372,7 +1868,11 @@
     "city": "MADURAI",
     "latitude": 9.882772,
     "longitude": 78.037871,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=9.882772,78.037871"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=9.882772,78.037871",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "317518",
@@ -1383,7 +1883,11 @@
     "city": "MADURAI",
     "latitude": 9.834285,
     "longitude": 78.044902,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=9.834285,78.044902"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=9.834285,78.044902",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "181274",
@@ -1394,7 +1898,11 @@
     "city": "HOSUR",
     "latitude": 12.727299,
     "longitude": 77.8512,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.727299,77.8512"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.727299,77.8512",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "290481",
@@ -1405,7 +1913,11 @@
     "city": "KRISHNAGIRI",
     "latitude": 12.601585,
     "longitude": 78.124455,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.601585,78.124455"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=12.601585,78.124455",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "133988",
@@ -1416,7 +1928,11 @@
     "city": "SALEM",
     "latitude": 11.682857,
     "longitude": 78.12455,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.682857,78.12455"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.682857,78.12455",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "252242",
@@ -1427,7 +1943,11 @@
     "city": "PONDICHERRY",
     "latitude": 11.915505,
     "longitude": 79.810854,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.915505,79.810854"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=11.915505,79.810854",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "154732",
@@ -1438,7 +1958,11 @@
     "city": "KANPUR",
     "latitude": 26.421339,
     "longitude": 80.374199,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.421339,80.374199"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.421339,80.374199",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "340573",
@@ -1449,7 +1973,11 @@
     "city": "LUCKNOW",
     "latitude": 26.885708,
     "longitude": 80.99245,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.885708,80.99245"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=26.885708,80.99245",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "153786",
@@ -1460,7 +1988,11 @@
     "city": "ALLAHABAD",
     "latitude": 25.4484335,
     "longitude": 81.8633084,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.4484335,81.8633084"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.4484335,81.8633084",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "524897",
@@ -1471,7 +2003,11 @@
     "city": "VARANASI",
     "latitude": 25.341116,
     "longitude": 82.992775,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.341116,82.992775"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=25.341116,82.992775",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "155344",
@@ -1482,7 +2018,11 @@
     "city": "MORADABAD",
     "latitude": 28.825335,
     "longitude": 78.773764,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.825335,78.773764"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.825335,78.773764",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "156149",
@@ -1493,7 +2033,11 @@
     "city": "MORADABAD",
     "latitude": 28.82347,
     "longitude": 78.683593,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.82347,78.683593"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.82347,78.683593",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "298315",
@@ -1504,7 +2048,11 @@
     "city": "NOIDA",
     "latitude": 28.466044,
     "longitude": 77.5334885,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.466044,77.5334885"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=28.466044,77.5334885",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "119941",
@@ -1515,7 +2063,11 @@
     "city": "KOLKATA",
     "latitude": 22.502256,
     "longitude": 88.363008,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.502256,88.363008"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.502256,88.363008",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "138059",
@@ -1526,7 +2078,11 @@
     "city": "KOLKATA",
     "latitude": 22.581929,
     "longitude": 88.456243,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.581929,88.456243"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.581929,88.456243",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "138588",
@@ -1537,7 +2093,11 @@
     "city": "KOLKATA",
     "latitude": 22.534839,
     "longitude": 88.333838,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.534839,88.333838"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.534839,88.333838",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "138632",
@@ -1548,7 +2108,11 @@
     "city": "KOLKATA",
     "latitude": 22.534758,
     "longitude": 88.362059,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.534758,88.362059"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.534758,88.362059",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   },
   {
     "roCode": "138708",
@@ -1559,6 +2123,10 @@
     "city": "KOLKATA",
     "latitude": 22.535348,
     "longitude": 88.353502,
-    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.535348,88.353502"
+    "googleMapsUrl": "https://www.google.com/maps/dir/?api=1&destination=22.535348,88.353502",
+    "petrolPrice": null,
+    "dieselPrice": null,
+    "xp95Price": null,
+    "xp100Price": null
   }
 ]

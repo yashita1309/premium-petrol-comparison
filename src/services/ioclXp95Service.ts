@@ -121,6 +121,7 @@ export class IOCLXP95Service {
           xp95Price: station.xp95Price,
           petrolPrice: station.petrolPrice,
           dieselPrice: station.dieselPrice,
+          xp100Price: station.xp100Price,
           stationUrl: station.stationUrl,
           googleMapsUrl: station.googleMapsUrl,
         });

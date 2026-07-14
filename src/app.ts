@@ -11,6 +11,8 @@ import bpclAdminRoutes from './bpcl/routes/adminRoutes';
 import ioclXp95Routes from './routes/ioclXp95Routes';
 import { errorHandler } from './middleware/errorHandler';
 
+import path from 'path';
+
 const app: Express = express();
 
 // Standard middleware
@@ -33,12 +35,20 @@ app.use('/bpcl/stations', bpclStationRoutes);
 app.use('/bpcl/admin', bpclAdminRoutes);
 app.use('/iocl/xp95', ioclXp95Routes);
 
-// Fallback 404 handler for unmatched routes
-app.use((_req: Request, res: Response) => {
+// Fallback 404 for API routes specifically
+app.use(['/stations', '/admin', '/hpcl', '/shell', '/bpcl', '/iocl'], (_req: Request, res: Response) => {
   res.status(404).json({
     error: 'Not Found',
-    message: 'The requested route or method is not defined.',
+    message: 'The requested API route or method is not defined.',
   });
+});
+
+// Serve frontend static assets from dist/public folder
+app.use(express.static(path.resolve('dist/public')));
+
+// Fallback to index.html for SPA client-side routing
+app.get('*', (_req: Request, res: Response) => {
+  res.sendFile(path.resolve('dist/public/index.html'));
 });
 
 // Global central error handler middleware

@@ -237,6 +237,7 @@ export async function scrapeIOCLXP95Stations(): Promise<void> {
       let petrolPrice: number | null = null;
       let dieselPrice: number | null = null;
       let xp95Price: number | null = null;
+      let xp100Price: number | null = null;
 
       try {
         const ajaxRes = await axios.get(priceUrl, {
@@ -260,6 +261,8 @@ export async function scrapeIOCLXP95Stations(): Promise<void> {
               dieselPrice = priceVal;
             } else if (icon.hasClass('icn-xptwo')) {
               xp95Price = priceVal;
+            } else if (icon.hasClass('icn-xp')) {
+              xp100Price = priceVal;
             }
           }
         });
@@ -295,6 +298,7 @@ export async function scrapeIOCLXP95Stations(): Promise<void> {
         xp95Price,
         petrolPrice,
         dieselPrice,
+        xp100Price,
         lastUpdated: new Date().toISOString(),
         stateOffice: null,
         divisionalOffice: null,
