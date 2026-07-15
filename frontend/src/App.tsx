@@ -9,6 +9,7 @@ import { ComparisonTable } from './components/ComparisonTable';
 import { ErrorCard } from './components/ErrorCard';
 import { LoadingSkeleton } from './components/LoadingSkeleton';
 import { Footer } from './components/Footer';
+import { PermissionInstructionsModal } from './components/PermissionInstructionsModal';
 import { useGeolocation } from './hooks/useGeolocation';
 import { useTheme } from './hooks/useTheme';
 import { PetrolFinderAPI } from './services/api';
@@ -21,6 +22,14 @@ export default function App() {
   const { toggleTheme, isDark } = useTheme();
   const { latitude, longitude, city, permissionStatus, retry, setCustomLocation } = useGeolocation();
 
+  const handleRetryLocation = useCallback(() => {
+    if (permissionStatus === 'denied') {
+      setShowPermissionModal(true);
+    } else {
+      retry();
+    }
+  }, [permissionStatus, retry]);
+
   // Search, filter, sorting, compare state
   const [search, setSearch] = useState('');
   const [radius, setRadius] = useState(10);
@@ -30,6 +39,7 @@ export default function App() {
   const [showComparison, setShowComparison] = useState(false);
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
   const [limitTo10, setLimitTo10] = useState(true);
+  const [showPermissionModal, setShowPermissionModal] = useState(false);
 
   // Data fetching and UI status state
   const [stations, setStations] = useState<UnifiedStation[]>([]);
@@ -314,7 +324,7 @@ export default function App() {
         longitude={longitude}
         city={city}
         permissionStatus={permissionStatus}
-        onRefreshLocation={retry}
+        onRefreshLocation={handleRetryLocation}
       />
 
       {/* Main Body */}
@@ -341,7 +351,7 @@ export default function App() {
               city={city}
               permissionStatus={permissionStatus}
               onSelectCity={handleSelectCity}
-              onRetry={retry}
+              onRetry={handleRetryLocation}
             />
 
             {/* Analytics summary rows */}
@@ -545,6 +555,12 @@ export default function App() {
 
       {/* Footer */}
       <Footer />
+
+      {/* Browser Permission Reset Guide Modal */}
+      <PermissionInstructionsModal
+        isOpen={showPermissionModal}
+        onClose={() => setShowPermissionModal(false)}
+      />
     </div>
   );
 }
