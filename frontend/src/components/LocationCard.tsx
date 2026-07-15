@@ -4,6 +4,7 @@ import { POPULAR_CITIES } from '../utils/cities';
 import type { CityCoords } from '../utils/cities';
 
 interface LocationCardProps {
+  hasCoords: boolean;
   city: string | null;
   permissionStatus: string;
   onSelectCity: (city: CityCoords) => void;
@@ -11,18 +12,20 @@ interface LocationCardProps {
 }
 
 export const LocationCard: React.FC<LocationCardProps> = ({
+  hasCoords,
   city,
   permissionStatus,
   onSelectCity,
   onRetry,
 }) => {
   const isBlocked = permissionStatus === 'denied';
+  const showWarning = isBlocked || !hasCoords;
 
   return (
     <div className="w-full bg-slate-50 dark:bg-slate-800/40 rounded-3xl p-6 border border-slate-200/50 dark:border-slate-800/80 flex flex-col md:flex-row gap-6 justify-between items-start md:items-center">
       <div className="max-w-md">
         <div className="flex items-center gap-2 mb-2">
-          {isBlocked ? (
+          {showWarning ? (
             <div className="p-2 bg-rose-100 dark:bg-rose-950/30 rounded-xl text-rose-500">
               <NavigationOff size={18} />
             </div>
@@ -32,13 +35,15 @@ export const LocationCard: React.FC<LocationCardProps> = ({
             </div>
           )}
           <h3 className="font-extrabold text-slate-800 dark:text-slate-200 font-display">
-            {isBlocked ? 'Location Permission Denied' : 'Current Location Intelligence'}
+            {showWarning ? 'Location Coordinates Unavailable' : 'Current Location Intelligence'}
           </h3>
         </div>
 
-        {isBlocked ? (
+        {showWarning ? (
           <p className="text-slate-500 dark:text-slate-400 text-xs leading-relaxed">
-            Please enable browser location access for precise real-time distances. In the meantime, select one of the fallback cities below to check nearby prices.
+            {isBlocked 
+              ? 'Please enable browser location access for precise real-time distances. In the meantime, select one of the fallback cities below to check nearby prices.'
+              : 'Unable to resolve GPS coordinates (timeout or hardware unavailable). Please select a city below to explore premium prices, or click Retry GPS.'}
           </p>
         ) : (
           <p className="text-slate-500 dark:text-slate-400 text-xs leading-relaxed">
@@ -66,7 +71,7 @@ export const LocationCard: React.FC<LocationCardProps> = ({
           ))}
         </div>
 
-        {isBlocked && (
+        {showWarning && (
           <button
             onClick={onRetry}
             className="flex items-center justify-center gap-1.5 w-full mt-2 py-2.5 bg-gradient-to-r from-amber-500 to-rose-600 hover:shadow-lg hover:shadow-rose-500/20 text-white text-xs font-bold rounded-xl active:scale-95 transition-all cursor-pointer"

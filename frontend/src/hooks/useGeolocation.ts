@@ -33,14 +33,16 @@ export function useGeolocation() {
         });
       },
       (error) => {
-        console.warn('[Geolocation] Permission denied or position unavailable:', error.message);
+        console.warn('[Geolocation] Error details:', error.code, error.message);
+        // Only set status to 'denied' if user explicitly blocked permission (error.code === 1)
+        const isExplicitDenial = error.code === 1; // error.PERMISSION_DENIED
         setState((prev) => ({
           ...prev,
-          permissionStatus: 'denied',
+          permissionStatus: isExplicitDenial ? 'denied' : 'prompt',
           isLoading: false,
         }));
       },
-      { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
+      { enableHighAccuracy: false, timeout: 6000, maximumAge: 30000 }
     );
   }, []);
 

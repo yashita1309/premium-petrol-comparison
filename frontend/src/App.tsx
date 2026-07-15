@@ -321,6 +321,7 @@ export default function App() {
 
             {/* Geolocation Card (Explains block fallback state) */}
             <LocationCard
+              hasCoords={latitude !== null && longitude !== null}
               city={city}
               permissionStatus={permissionStatus}
               onSelectCity={handleSelectCity}
