@@ -219,7 +219,7 @@ export const StationCard: React.FC<StationCardProps> = ({
             <div className="flex flex-col col-span-2">
               <span className="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase">V-Power Petrol</span>
               <span className="text-sm font-black text-yellow-600 dark:text-yellow-400">
-                {station.premiumFuelPrice ? `₹${station.premiumFuelPrice.toFixed(2)}` : 'Varies'}
+                {station.premiumFuelPrice ? `₹${station.premiumFuelPrice.toFixed(2)}` : 'Price N/A'}
               </span>
             </div>
           )}
