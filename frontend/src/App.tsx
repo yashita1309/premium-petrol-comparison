@@ -41,6 +41,7 @@ export default function App() {
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
   const [limitTo10, setLimitTo10] = useState(true);
   const [showPermissionModal, setShowPermissionModal] = useState(false);
+  const [octaneFilter, setOctaneFilter] = useState<'All' | '95' | '100'>('All');
 
   // Data fetching and UI status state
   const [stations, setStations] = useState<UnifiedStation[]>([]);
@@ -87,7 +88,7 @@ export default function App() {
     setHpclLimit(20);
     setBpclLimit(20);
     setShellLimit(20);
-  }, [search, radius, selectedBrand]);
+  }, [search, radius, selectedBrand, octaneFilter]);
 
   // Main data fetcher (downloads entire database once, all filtering and searching happens client-side)
   const loadData = useCallback(async () => {
@@ -327,15 +328,46 @@ export default function App() {
       results = results.filter((s) => s.brand === selectedBrand);
     }
 
-    // 4. Filter by favorites
+    // 4. Filter by Octane Grade
+    if (octaneFilter === '95') {
+      results = results.filter((s) => {
+        if (s.brand === 'IOCL') return s.xp95Price && s.xp95Price > 0;
+        // HPCL Power95, Shell V-Power, and BPCL Speed are 95 octane
+        return true;
+      });
+    } else if (octaneFilter === '100') {
+      results = results.filter((s) => {
+        if (s.brand === 'IOCL') return s.xp100Price && s.xp100Price > 0;
+        // Other brands currently don't offer 100 octane premium fuel in these datasets
+        return false;
+      });
+    }
+
+    // 5. Project display price based on octane filter for correct sorting and analytics
+    let projected = results.map((s) => {
+      let activePrice = s.premiumFuelPrice;
+      if (s.brand === 'IOCL') {
+        if (octaneFilter === '95' && s.xp95Price && s.xp95Price > 0) {
+          activePrice = s.xp95Price;
+        } else if (octaneFilter === '100' && s.xp100Price && s.xp100Price > 0) {
+          activePrice = s.xp100Price;
+        }
+      }
+      return {
+        ...s,
+        premiumFuelPrice: activePrice,
+      };
+    });
+
+    // 6. Filter by favorites
     if (showFavoritesOnly) {
-      results = results.filter((s) =>
+      projected = projected.filter((s) =>
         favorites.some((f) => f.id === s.stationId && f.brand === s.brand)
       );
     }
 
-    // 5. Sort
-    return [...results].sort((a, b) => {
+    // 7. Sort
+    return [...projected].sort((a, b) => {
       let valA: any = 0;
       let valB: any = 0;
 
@@ -354,7 +386,7 @@ export default function App() {
       const orderSign = sortOrder === 'desc' ? -1 : 1;
       return valA > valB ? orderSign : -orderSign;
     });
-  }, [stations, search, radius, latitude, longitude, selectedBrand, sortBy, sortOrder, showFavoritesOnly, favorites]);
+  }, [stations, search, radius, latitude, longitude, selectedBrand, sortBy, sortOrder, showFavoritesOnly, favorites, octaneFilter]);
 
   // Sliced lists for rendering (optimizing DOM performance)
   const ioclRawStations = useMemo(
@@ -442,7 +474,6 @@ export default function App() {
             {/* Analytics summary rows */}
             <PriceSummary stations={filteredAndSortedStations} />
 
-            {/* Sticky Filtering controls */}
             <FilterBar
               search={search}
               setSearch={setSearch}
@@ -456,6 +487,8 @@ export default function App() {
               setSortOrder={setSortOrder}
               limitTo10={limitTo10}
               setLimitTo10={setLimitTo10}
+              octaneFilter={octaneFilter}
+              setOctaneFilter={setOctaneFilter}
             />
 
             {/* Matrix comparison button */}
@@ -533,6 +566,7 @@ export default function App() {
                               onToggleFavorite={handleToggleFavorite}
                               userLatitude={latitude}
                               userLongitude={longitude}
+                              octaneFilter={octaneFilter}
                             />
                           ))}
                         </div>
@@ -580,6 +614,7 @@ export default function App() {
                               onToggleFavorite={handleToggleFavorite}
                               userLatitude={latitude}
                               userLongitude={longitude}
+                              octaneFilter={octaneFilter}
                             />
                           ))}
                         </div>
@@ -627,6 +662,7 @@ export default function App() {
                               onToggleFavorite={handleToggleFavorite}
                               userLatitude={latitude}
                               userLongitude={longitude}
+                              octaneFilter={octaneFilter}
                             />
                           ))}
                         </div>
@@ -674,6 +710,7 @@ export default function App() {
                               onToggleFavorite={handleToggleFavorite}
                               userLatitude={latitude}
                               userLongitude={longitude}
+                              octaneFilter={octaneFilter}
                             />
                           ))}
                         </div>

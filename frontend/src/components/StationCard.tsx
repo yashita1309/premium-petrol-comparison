@@ -18,6 +18,7 @@ interface StationCardProps {
   isFavorite: boolean;
   userLatitude: number | null;
   userLongitude: number | null;
+  octaneFilter?: 'All' | '95' | '100';
 }
 
 export const StationCard: React.FC<StationCardProps> = ({
@@ -26,6 +27,7 @@ export const StationCard: React.FC<StationCardProps> = ({
   isFavorite,
   userLatitude,
   userLongitude,
+  octaneFilter = 'All',
 }) => {
   const [copiedAddress, setCopiedAddress] = useState(false);
   const [copiedCoords, setCopiedCoords] = useState(false);
@@ -159,14 +161,18 @@ export const StationCard: React.FC<StationCardProps> = ({
           {station.brand === 'IOCL' && (
             <>
               {/* XP95 */}
-              <div className="flex flex-col">
+              <div className={`flex flex-col p-1.5 rounded-xl transition-all ${
+                octaneFilter === '95' ? 'bg-orange-500/10 ring-1 ring-orange-500/30' : ''
+              }`}>
                 <span className="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase">XP95 Price</span>
                 <span className="text-sm font-black text-slate-800 dark:text-slate-100">
                   {station.xp95Price ? `₹${station.xp95Price.toFixed(2)}` : 'N/A'}
                 </span>
               </div>
               {/* XP100 */}
-              <div className="flex flex-col">
+              <div className={`flex flex-col p-1.5 rounded-xl transition-all ${
+                octaneFilter === '100' ? 'bg-orange-500/10 ring-1 ring-orange-500/30' : ''
+              }`}>
                 <span className="text-[10px] font-bold text-slate-400 dark:text-slate-500 uppercase">XP100 Price</span>
                 {station.xp100Price && station.xp100Price > 0 ? (
                   <span className="text-sm font-black text-rose-500 dark:text-rose-400">

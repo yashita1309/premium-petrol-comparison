@@ -14,6 +14,8 @@ interface FilterBarProps {
   setSortOrder: (o: 'asc' | 'desc') => void;
   limitTo10: boolean;
   setLimitTo10: (l: boolean) => void;
+  octaneFilter: 'All' | '95' | '100';
+  setOctaneFilter: (o: 'All' | '95' | '100') => void;
 }
 
 export const FilterBar: React.FC<FilterBarProps> = ({
@@ -29,6 +31,8 @@ export const FilterBar: React.FC<FilterBarProps> = ({
   setSortOrder,
   limitTo10,
   setLimitTo10,
+  octaneFilter,
+  setOctaneFilter,
 }) => {
   return (
     <div className="static md:sticky md:top-24 z-40 w-full glassmorphism p-5 rounded-3xl shadow-xl shadow-slate-100 dark:shadow-none border border-slate-200/60 dark:border-slate-800/80 flex flex-col gap-4">
@@ -93,8 +97,32 @@ export const FilterBar: React.FC<FilterBarProps> = ({
           ))}
         </div>
 
-        {/* Radius & Limit toggle group */}
+        {/* Radius, Limit, and Octane toggle group */}
         <div className="flex flex-wrap items-center gap-4">
+          {/* Octane Grade Toggle */}
+          <div className="flex items-center gap-2">
+            <span className="text-xs font-bold text-slate-500 dark:text-slate-400">Octane Grade</span>
+            <div className="flex bg-slate-100/80 dark:bg-slate-800/50 p-1 rounded-xl border border-slate-200/50 dark:border-slate-800/80">
+              {[
+                { label: 'All', value: 'All' },
+                { label: '95', value: '95' },
+                { label: '97-100+', value: '100' },
+              ].map((opt) => (
+                <button
+                  key={opt.value}
+                  onClick={() => setOctaneFilter(opt.value as any)}
+                  className={`px-3 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer ${
+                    octaneFilter === opt.value
+                      ? 'bg-gradient-to-r from-amber-500 to-rose-600 text-white shadow-sm font-extrabold'
+                      : 'text-slate-500 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200'
+                  }`}
+                >
+                  {opt.label}
+                </button>
+              ))}
+            </div>
+          </div>
+
           {/* Limit Toggle */}
           <div className="flex items-center gap-2">
             <span className="text-xs font-bold text-slate-500 dark:text-slate-400">Max Results</span>
